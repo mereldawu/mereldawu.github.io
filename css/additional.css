@@ -1,0 +1,93 @@
+.index-title{
+    font-family: Rubik;
+    color: #5a554e;
+    font-size: 64px;
+    margin-top:20px;
+}
+.index-sub{
+    color: #ee577e;
+    font-size: 16px;
+    font-family: Karla;
+    margin-top: 20px;
+}
+.index-text{
+    font-family: Karla;
+    font-size: 16px;
+    margin: 20px 200px 40px 200px;
+    line-height: 1.5
+}
+.index-image{
+    width: 300px;
+}
+.social-icon{
+    color: #5a554e;
+    font-size:1.5rem;
+}
+.clock{
+    margin-left: 25px;
+}
+.error{
+    text-align: center !important;
+}
+@media(max-width: 1024px){
+    .index-text{
+        margin: 20px 10px 40px 10px;
+    }
+}
+@media(min-width: 769px){
+    .md-nopad-right{
+        padding-right: 0px !important;
+    }
+    .md-nopad-left{
+        padding-left: 0px !important;
+    }
+}
+
+.jumbotron{
+    background-color: #fff;
+    padding: 0px;
+}
+
+.jumbotron.fortags a{
+    background: #5a554e !important;
+    color: #fff;
+}
+
+.section-title h2{
+    border-bottom: 1px solid #e0d2cd;
+}
+
+div.quote p {
+    font-family: medium-content-title-font, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 50px;
+    color: rgba(0, 0, 0, 0.48);
+    padding: 30px;
+}
+
+div.pdivider p{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 100;
+    font-size: 42px;
+    text-align: center;
+    line-height: 100px;
+    color: rgba(0, 0, 0, 0.48);
+}
+
+div.heading p{
+    line-height: 50px;
+}
+
+.article-post h3{
+    font-family: "Open Sans", "Kalra", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 50px;
+    margin-top: 50px;
+    font-weight: 500px;
+}
+
+.article-post h4{
+    font-family: "Open Sans", "Kalra", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    margin-top: 50px;
+    color: #4F4E4D;
+}

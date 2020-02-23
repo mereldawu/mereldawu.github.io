@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Hi, I&#39;m Merelda ❤</title>
+    <link>https://merelda.com/blog/</link>
+    <description>Recent content in Blogs on Hi, I&#39;m Merelda ❤</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Feb 2020 11:40:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://merelda.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5 Reasons Why You Should Join Deep Learning Indaba 2019</title>
+      <link>https://merelda.com/blog/deep-learning-indaba-2019/</link>
+      <pubDate>Sun, 23 Feb 2020 11:40:11 +0200</pubDate>
+      
+      <guid>https://merelda.com/blog/deep-learning-indaba-2019/</guid>
+      <description>In April this year, instead of organising my 20-something birthday party, I spent hours writing motivating emails to my company to convince them to send me to Deep Learning Indaba.</description>
+    </item>
+    
+    <item>
+      <title>3 Tips on Defining a Data Science Project Scope with Business</title>
+      <link>https://merelda.com/blog/speak-to-business/</link>
+      <pubDate>Sat, 22 Feb 2020 23:26:20 +0200</pubDate>
+      
+      <guid>https://merelda.com/blog/speak-to-business/</guid>
+      <description>Never be in trouble for delivering the wrong thing at the wrong time to the wrong person.</description>
+    </item>
+    
+  </channel>
+</rss>

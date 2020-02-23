@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hi, I&#39;m Merelda ❤</title>
+    <link>https://merelda.com/tags/</link>
+    <description>Recent content in Tags on Hi, I&#39;m Merelda ❤</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Feb 2020 11:40:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://merelda.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>conference</title>
+      <link>https://merelda.com/tags/conference/</link>
+      <pubDate>Sun, 23 Feb 2020 11:40:11 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datascience</title>
+      <link>https://merelda.com/tags/datascience/</link>
+      <pubDate>Sun, 23 Feb 2020 11:40:11 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/datascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medium</title>
+      <link>https://merelda.com/tags/medium/</link>
+      <pubDate>Sun, 23 Feb 2020 11:40:11 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/medium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>all</title>
+      <link>https://merelda.com/tags/all/</link>
+      <pubDate>Sat, 22 Feb 2020 23:26:20 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speak-to-business</title>
+      <link>https://merelda.com/tags/speak-to-business/</link>
+      <pubDate>Sat, 22 Feb 2020 23:26:20 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/speak-to-business/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
