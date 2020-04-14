@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thoughts on Hi, I&#39;m Merelda ❤</title>
+    <link>https://merelda.com/tags/thoughts/</link>
+    <description>Recent content in thoughts on Hi, I&#39;m Merelda ❤</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://merelda.com/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Considerations for Deploying an ML Model</title>
+      <link>https://merelda.com/posts/deploying-ml-model/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/deploying-ml-model/</guid>
+      <description>✈ Deploying a machine learning model is like flying an airplane 🛩 Having no logging is like flying without a Blackbox.</description>
+    </item>
+    
+    <item>
+      <title>Build Things Properly</title>
+      <link>https://merelda.com/posts/build-things-properly/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/build-things-properly/</guid>
+      <description>A couple of days ago, we had a meeting to help a client operationalise their machine learning model.</description>
+    </item>
+    
+    <item>
+      <title>Pandas is finally version 1.0</title>
+      <link>https://merelda.com/posts/pandas-one-point-o/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/pandas-one-point-o/</guid>
+      <description>Can you believe Pandas 1.0.0 is finally here?</description>
+    </item>
+    
+  </channel>
+</rss>

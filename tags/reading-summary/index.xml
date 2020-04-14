@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reading-summary on Hi, I&#39;m Merelda ❤</title>
+    <link>https://merelda.com/tags/reading-summary/</link>
+    <description>Recent content in reading-summary on Hi, I&#39;m Merelda ❤</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Apr 2020 18:08:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://merelda.com/tags/reading-summary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O&#39;Reilly: What you need to know about Product Management for AI</title>
+      <link>https://merelda.com/posts/ai-product-managers/</link>
+      <pubDate>Tue, 14 Apr 2020 18:08:20 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/ai-product-managers/</guid>
+      <description>Product managers have a tremendously tough job.</description>
+    </item>
+    
+    <item>
+      <title>WORKERA: AI Career Pathways</title>
+      <link>https://merelda.com/posts/workera-ai-organisation/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/workera-ai-organisation/</guid>
+      <description>There is an emergence of two types of AI focuses within an organisation according to WORKERA:</description>
+    </item>
+    
+    <item>
+      <title>O&#39;Reilly: 5 key areas for tech leaders to watch in 2020</title>
+      <link>https://merelda.com/posts/oreilly-platform-analysis-2020/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/oreilly-platform-analysis-2020/</guid>
+      <description>According to O&amp;rsquo;Reillly online learning platform report, summarising the AI/ML:</description>
+    </item>
+    
+    <item>
+      <title>Algorithmia: 2020 state of enterprise machine learning</title>
+      <link>https://merelda.com/posts/algorithmia-state-of-enterprise-ml/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/algorithmia-state-of-enterprise-ml/</guid>
+      <description>Hello 2020! We started the year by reviewing this white paper published by Algorithmia on the 2020 State of Enterprise Machine Learning.</description>
+    </item>
+    
+    <item>
+      <title>McKinsey: Global AI Survey</title>
+      <link>https://merelda.com/posts/mckinsey-ai-adoption/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/mckinsey-ai-adoption/</guid>
+      <description>This study from McKinsey suggested that there have been measurable benefits from deployed AI.</description>
+    </item>
+    
+  </channel>
+</rss>

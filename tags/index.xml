@@ -6,53 +6,80 @@
     <description>Recent content in Tags on Hi, I&#39;m Merelda ❤</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2020 11:40:11 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2020 18:08:20 +0200</lastBuildDate>
     
 	<atom:link href="https://merelda.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>conference</title>
-      <link>https://merelda.com/tags/conference/</link>
-      <pubDate>Sun, 23 Feb 2020 11:40:11 +0200</pubDate>
-      
-      <guid>https://merelda.com/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>datascience</title>
       <link>https://merelda.com/tags/datascience/</link>
-      <pubDate>Sun, 23 Feb 2020 11:40:11 +0200</pubDate>
+      <pubDate>Tue, 14 Apr 2020 18:08:20 +0200</pubDate>
       
       <guid>https://merelda.com/tags/datascience/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>medium</title>
-      <link>https://merelda.com/tags/medium/</link>
-      <pubDate>Sun, 23 Feb 2020 11:40:11 +0200</pubDate>
+      <title>linkedin</title>
+      <link>https://merelda.com/tags/linkedin/</link>
+      <pubDate>Tue, 14 Apr 2020 18:08:20 +0200</pubDate>
       
-      <guid>https://merelda.com/tags/medium/</guid>
+      <guid>https://merelda.com/tags/linkedin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading-summary</title>
+      <link>https://merelda.com/tags/reading-summary/</link>
+      <pubDate>Tue, 14 Apr 2020 18:08:20 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/reading-summary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>all</title>
       <link>https://merelda.com/tags/all/</link>
-      <pubDate>Sat, 22 Feb 2020 23:26:20 +0200</pubDate>
+      <pubDate>Tue, 14 Apr 2020 17:32:02 +0200</pubDate>
       
       <guid>https://merelda.com/tags/all/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>medium</title>
+      <link>https://merelda.com/tags/medium/</link>
+      <pubDate>Tue, 14 Apr 2020 17:32:02 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/medium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thoughts</title>
+      <link>https://merelda.com/tags/thoughts/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>speak-to-business</title>
       <link>https://merelda.com/tags/speak-to-business/</link>
-      <pubDate>Sat, 22 Feb 2020 23:26:20 +0200</pubDate>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0200</pubDate>
       
       <guid>https://merelda.com/tags/speak-to-business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conference</title>
+      <link>https://merelda.com/tags/conference/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/conference/</guid>
       <description></description>
     </item>
     

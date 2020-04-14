@@ -6,27 +6,108 @@
     <description>Recent content on Hi, I&#39;m Merelda ❤</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2020 11:40:11 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2020 18:08:20 +0200</lastBuildDate>
     
 	<atom:link href="https://merelda.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>5 Reasons Why You Should Join Deep Learning Indaba 2019</title>
-      <link>https://merelda.com/blog/deep-learning-indaba-2019/</link>
-      <pubDate>Sun, 23 Feb 2020 11:40:11 +0200</pubDate>
+      <title>O&#39;Reilly: What you need to know about Product Management for AI</title>
+      <link>https://merelda.com/posts/ai-product-managers/</link>
+      <pubDate>Tue, 14 Apr 2020 18:08:20 +0200</pubDate>
       
-      <guid>https://merelda.com/blog/deep-learning-indaba-2019/</guid>
-      <description>In April this year, instead of organising my 20-something birthday party, I spent hours writing motivating emails to my company to convince them to send me to Deep Learning Indaba.</description>
+      <guid>https://merelda.com/posts/ai-product-managers/</guid>
+      <description>Product managers have a tremendously tough job.</description>
+    </item>
+    
+    <item>
+      <title>Rise above the ordinary — a data science reading list</title>
+      <link>https://merelda.com/blog/data-science-reading-list/</link>
+      <pubDate>Tue, 14 Apr 2020 17:32:02 +0200</pubDate>
+      
+      <guid>https://merelda.com/blog/data-science-reading-list/</guid>
+      <description>An hour reading sprint a day to keep your knowledge broad and up-to-date</description>
+    </item>
+    
+    <item>
+      <title>Considerations for Deploying an ML Model</title>
+      <link>https://merelda.com/posts/deploying-ml-model/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/deploying-ml-model/</guid>
+      <description>✈ Deploying a machine learning model is like flying an airplane 🛩 Having no logging is like flying without a Blackbox.</description>
+    </item>
+    
+    <item>
+      <title>WORKERA: AI Career Pathways</title>
+      <link>https://merelda.com/posts/workera-ai-organisation/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/workera-ai-organisation/</guid>
+      <description>There is an emergence of two types of AI focuses within an organisation according to WORKERA:</description>
+    </item>
+    
+    <item>
+      <title>O&#39;Reilly: 5 key areas for tech leaders to watch in 2020</title>
+      <link>https://merelda.com/posts/oreilly-platform-analysis-2020/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/oreilly-platform-analysis-2020/</guid>
+      <description>According to O&amp;rsquo;Reillly online learning platform report, summarising the AI/ML:</description>
+    </item>
+    
+    <item>
+      <title>Build Things Properly</title>
+      <link>https://merelda.com/posts/build-things-properly/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/build-things-properly/</guid>
+      <description>A couple of days ago, we had a meeting to help a client operationalise their machine learning model.</description>
+    </item>
+    
+    <item>
+      <title>Pandas is finally version 1.0</title>
+      <link>https://merelda.com/posts/pandas-one-point-o/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/pandas-one-point-o/</guid>
+      <description>Can you believe Pandas 1.0.0 is finally here?</description>
+    </item>
+    
+    <item>
+      <title>Algorithmia: 2020 state of enterprise machine learning</title>
+      <link>https://merelda.com/posts/algorithmia-state-of-enterprise-ml/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/algorithmia-state-of-enterprise-ml/</guid>
+      <description>Hello 2020! We started the year by reviewing this white paper published by Algorithmia on the 2020 State of Enterprise Machine Learning.</description>
+    </item>
+    
+    <item>
+      <title>McKinsey: Global AI Survey</title>
+      <link>https://merelda.com/posts/mckinsey-ai-adoption/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/mckinsey-ai-adoption/</guid>
+      <description>This study from McKinsey suggested that there have been measurable benefits from deployed AI.</description>
     </item>
     
     <item>
       <title>3 Tips on Defining a Data Science Project Scope with Business</title>
       <link>https://merelda.com/blog/speak-to-business/</link>
-      <pubDate>Sat, 22 Feb 2020 23:26:20 +0200</pubDate>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0200</pubDate>
       
       <guid>https://merelda.com/blog/speak-to-business/</guid>
       <description>Never be in trouble for delivering the wrong thing at the wrong time to the wrong person.</description>
+    </item>
+    
+    <item>
+      <title>5 Reasons Why You Should Join Deep Learning Indaba 2019</title>
+      <link>https://merelda.com/blog/deep-learning-indaba-2019/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/blog/deep-learning-indaba-2019/</guid>
+      <description>In April this year, instead of organising my 20-something birthday party, I spent hours writing motivating emails to my company to convince them to send me to Deep Learning Indaba.</description>
     </item>
     
   </channel>
