@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://merelda.com/tags/datascience/</loc>
-    <lastmod>2020-04-14T18:08:20+02:00</lastmod>
+    <loc>https://merelda.com/</loc>
+    <lastmod>2020-04-16T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://merelda.com/</loc>
+    <loc>https://merelda.com/static/quotes/</loc>
+    <lastmod>2020-04-16T10:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/static/</loc>
+    <lastmod>2020-04-16T10:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/tags/datascience/</loc>
     <lastmod>2020-04-14T18:08:20+02:00</lastmod>
   </url>
   
