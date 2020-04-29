@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://merelda.com/tags/datascience/</loc>
+    <lastmod>2020-04-29T15:55:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/</loc>
+    <lastmod>2020-04-29T15:55:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/tags/linkedin/</loc>
+    <lastmod>2020-04-29T15:55:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/posts/</loc>
+    <lastmod>2020-04-29T15:55:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/tags/reading-summary/</loc>
+    <lastmod>2020-04-29T15:55:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/tags/</loc>
+    <lastmod>2020-04-29T15:55:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/posts/go-big-or-go-home/</loc>
+    <lastmod>2020-04-29T15:55:36+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://merelda.com/blog/project-scope-management/</loc>
     <lastmod>2020-04-29T10:55:06+02:00</lastmod>
   </url>
@@ -18,27 +53,12 @@
   </url>
   
   <url>
-    <loc>https://merelda.com/tags/datascience/</loc>
-    <lastmod>2020-04-29T10:55:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://merelda.com/</loc>
-    <lastmod>2020-04-29T10:55:06+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://merelda.com/tags/medium/</loc>
     <lastmod>2020-04-29T10:55:06+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://merelda.com/tags/speak-to-business/</loc>
-    <lastmod>2020-04-29T10:55:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://merelda.com/tags/</loc>
     <lastmod>2020-04-29T10:55:06+02:00</lastmod>
   </url>
   
@@ -53,22 +73,7 @@
   </url>
   
   <url>
-    <loc>https://merelda.com/tags/linkedin/</loc>
-    <lastmod>2020-04-14T18:08:20+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://merelda.com/posts/ai-product-managers/</loc>
-    <lastmod>2020-04-14T18:08:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://merelda.com/posts/</loc>
-    <lastmod>2020-04-14T18:08:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://merelda.com/tags/reading-summary/</loc>
     <lastmod>2020-04-14T18:08:20+02:00</lastmod>
   </url>
   
