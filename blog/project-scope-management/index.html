@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-163819344-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+	<meta name="generator" content="Hugo 0.67.1" />
+	
+	<link rel="icon" href="/images/merelda_logo_square2.png">
+	
+	<title>Hi, I'm Merelda :)</title>
+	
+	
+
+	<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://merelda.com/blog/project-scope-management/cover.png"/>
+<meta name="twitter:title" content="3 Tips You Need To Save Your Data Science Project Scope"/>
+<meta name="twitter:description" content="Never spend another second building a monster-app that is miles away from the original scope."/>
+
+	<meta property="og:title" content="3 Tips You Need To Save Your Data Science Project Scope" />
+<meta property="og:description" content="Never spend another second building a monster-app that is miles away from the original scope." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://merelda.com/blog/project-scope-management/" />
+<meta property="og:image" content="https://merelda.com/blog/project-scope-management/cover.png"/>
+<meta property="article:published_time" content="2020-04-29T10:55:06+02:00" />
+<meta property="article:modified_time" content="2020-04-29T10:55:06+02:00" />
+
+
+	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
+	 crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+	<link href="/css/medium.css" rel="stylesheet">
+	<link href="/css/additional.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+    <div class="container pr-0">
+        
+        <a class="navbar-brand" href="https://merelda.com//">
+
+            
+            <img src="/images/merelda_logo_square2.png" alt="logo">
+            
+        </a>
+        
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent"
+            aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        
+        <div class="collapse navbar-collapse" id="navbarMediumish">
+            
+            <ul class="navbar-nav ml-auto">
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/blog">Blog</a>
+                </li>
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/posts">Posts</a>
+                </li>
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/static/quotes">Quotes</a>
+                </li>
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/cv">CV</a>
+                </li>
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/">About Me</a>
+                </li>
+                
+            </ul>
+        </div>
+        
+    </div>
+</nav>
+
+
+        <div class="site-content">   
+            <div class="container">
+<div class="mainheading">
+    <h1 class="sitetitle">Hi, I&#39;m Merelda ❤</h1>
+    <p class="lead">
+         
+    </p>
+</div><div class="main-content">
+        
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-md-2 pl-0"><div class="share sticky-top sticky-top-offset">
+    <p>Share</p>
+    <ul>
+        <li class="ml-1 mr-1">
+        <a target="_blank" href="https://twitter.com/intent/tweet?text=3%20Tips%20You%20Need%20To%20Save%20Your%20Data%20Science%20Project%c2%a0Scope&url=https%3a%2f%2fmerelda.com%2fblog%2fproject-scope-management%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=435');return false;">
+        <i class="fab fa-twitter"></i>
+        </a>
+        </li>
+        
+        <li class="ml-1 mr-1">
+        <a target="_blank" href="https://facebook.com/sharer.php?u=https%3a%2f%2fmerelda.com%2fblog%2fproject-scope-management%2f" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+        <i class="fab fa-facebook-f"></i>
+        </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+        <a target="_blank" href="https://www.xing.com/spi/shares/new?url=https%3a%2f%2fmerelda.com%2fblog%2fproject-scope-management%2f" onclick="window.open(this.href, 'xing-share', 'width=550,height=435');return false;">
+        <i class="fab fa-xing"></i>
+        </a>
+        </li>        
+    </ul>
+
+    
+</div>
+</div>
+                                
+                <div class="col-md-9 flex-first flex-md-unordered">
+                    <div class="mainheading">
+                        	
+                        
+                        
+                        
+                        <div class="row post-top-meta">
+                            <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0 md-nopad-right">
+                                <img class="author-thumb" src="/images/profile.png" alt="Merelda Wu">
+                            </div>
+                            <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left md-nopad-left">
+                                <a target="_blank" class="link-dark">Merelda Wu</a><br>
+                                <span class="author-description">
+                                    𐄁𐄙𐄁𐄙𐄁𐄙𐄁𐄙𐄁𐄙𐄁𐄙𐄁𐄙𐄙𐄁𐄙𐄙𐄁𐄙𐄁<br>
+                                    <i class="far fa-star"></i>
+                                    Apr 29, 2020
+                                    <i class="far fa-clock clock"></i>
+                                    11 min read
+                                </span>					
+                            </div>
+                        </div>			
+                        	
+                        
+                                                
+                        
+                        <h1 class="posttitle">3 Tips You Need To Save Your Data Science Project Scope</h1> 
+                    </div>
+
+                    
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    <div class="article-post">
+                        <blockquote>
+<p>Never spend another second building a monster-app that is miles away from the original scope. And be blamed for it.</p>
+</blockquote>
+<p>As a data scientist, you expect to get a job that lets you do cool stuff - Big data, Big machine (or cloud, like the grown-ups), and Deep neural networks. Reality quickly creeps in as you realize the mismatch between your model, your project manager&rsquo;s timeline, and your stakeholder&rsquo;s expectation.</p>
+<p>Your project is creeping further and further from the original scope, and you are miles away from completion. The demo is Tuesday, your eyes are watering and palms sweating.</p>
+<figure><a href="https://unsplash.com/photos/qgA-K7Ky2fM">
+    <img src="cover1.png"
+         alt="Photo by Agê Barros on Unsplash. Quote added by the author via AdobeSpark."/> </a><figcaption>
+            <p>Photo by Agê Barros on Unsplash. Quote added by the author via AdobeSpark.</p>
+        </figcaption>
+</figure>
+
+
+<div class="quote " ><p>&ldquo;That&rsquo;s not in the requirement!&rdquo; - almost every developer</p>
+</div>
+
+<p>Previously, I wrote about the importance of </ins><a href="https://merelda.com/blog/speak-to-business/">defining data science scope</a></ins> with business stakeholders. It can save a lot of headaches by guiding the business from what they think they need to want they really want. Unfortunately, having a <strong>clear objective is not enough</strong>. Business requirements change all the time, what was important yesterday is not what is pressing today. And who knows about tomorrow?
+This post aims to discuss 3 tips (and a bonus one!) that you can use to manage your forever-changing data science project scope. To illustrate the points, let&rsquo;s start with an all-too-familiar example.</p>
+
+<div class="pdivider " ><p>. . .</p>
+</div>
+
+<h2 id="build-a-churn-model-theysaid">Build a Churn Model, they said</h2>
+<p>As a running scenario, let&rsquo;s pretend the retention rate is poor on your company&rsquo;s new product. Your boss Bill tasked you to build a customer churn model to find out who is canceling their subscription. You spent a week gathering requirements, another two to clean the data, and you&rsquo;re finally ready to get cracking.</p>
+<p>Until.</p>
+<h3 id="scope-creep-lets-include-some-new-datasources">Scope Creep: Let&rsquo;s include some new data sources…</h3>
+<p>Bill the Boss decided that social media is essential in predicting the customer&rsquo;s behavior. Which could be true, and it can be done, but your timeline didn&rsquo;t change and you&rsquo;re not getting paid more.</p>
+<figure>
+    <img src="scope_creep.png"
+         alt="Scope creep example. Created by author."/> <figcaption>
+            <p>Scope creep example. Created by author.</p>
+        </figcaption>
+</figure>
+
+<p>Unfortunately for you, Bill said part of the budget for your project comes from the user engagement team. It&rsquo;s a slap in the face if their data is not used. So now you gotta do it. Oh wait, did I mention that the data is so sparse it&rsquo;s most likely going to get dropped anyway.</p>
+<p>And then.</p>
+<h3 id="scope-change-lets-completely-change-our-assumption">Scope Change: Let&rsquo;s completely change our assumption… </h3>
+<p>Sometimes, when these &ldquo;additional features&rdquo; manifest themselves too far into the project, it becomes a scope change. As an example, a batched process that runs nightly has a fundamentally different architecture from a real-time prediction.</p>
+</br>
+<figure>
+    <img src="scope_creep.png"
+         alt="Scope change example. Created by author."/> <figcaption>
+            <p>Scope change example. Created by author.</p>
+        </figcaption>
+</figure>
+
+</br>
+<p>Let&rsquo;s take a pause here and think back to when this happened to you. Take a look at the three options below related to scope creep or scope change. If you could go back in time and pick one, what would you do?</p>
+</br>
+<figure>
+    <img src="options.png"/> 
+</figure>
+
+</br>
+<p>There are no right or wrong answers here (or ever), and these are all good approaches to take given the flexibility on the timeline and budget. Instead of trying to redefine or blindly completing the changes, what I would recommend is to ask more questions.</p>
+
+<div class="pdivider " ><p>. . .</p>
+</div>
+
+<p>The scope change problem happened to the best of us. And although not all scope changes are bad (some are detrimental), they do put an unnecessary amount of stress onto us. Let&rsquo;s dive into the tips that can hopefully save you some gray hair.</p>
+<h3 id="tip-1-know-who-your-project-stakeholders-are">Tip 1: Know who your project stakeholders are</h3>
+<p>Once we get a defined project brief, it&rsquo;s very natural for the problem-solvers amongst us to dive into development mode. These are the steps we typically take:</p>
+<p>1⃣   Speak to the teams that have the data we need</p>
+<p>2⃣   Train model</p>
+<p>3⃣   Speak to the teams that will help us deploy the mode (such as data engineering and infrastructure teams, if you&rsquo;re <ins><a href="https://cultivating-algos.stitchfix.com/">not lucky enough</a></ins> to be working with them already)</p>
+<p>Cool, but what went wrong here? </p>
+<p>Take a look at the complex organizational structure below. Most data science projects have multiple touchpoints within the organization. The disparate data sources that need to be curated, joint budget delivered by departments with differing needs, and supporting business functions that have the insights we need. </p>
+</br>
+<figure>
+    <img src="org_structure.png"
+         alt="Complex organizational touchpoints for a simple machine learning model.
+Created by author."/> <figcaption>
+            <p>Complex organizational touchpoints for a simple machine learning model.<br>Created by author.</p>
+        </figcaption>
+</figure>
+
+</br>
+<p>Without a firm grasp on the multitude of stakeholders, you realized…</p>
+<p>❌ Your life-time-value calculation is incorrect because you did not know that the pricing team gave discounts to customers who signed up before the official launch.</p>
+<p>❌ The product satisfaction index you created is a bad proxy to NPS because you did not know that the product team transformed it multiple times before passing it onto the relationship management team.</p>
+<p>❌ Most importantly, you failed to understand who is the user of your model. The frontline call center employee needs to access prediction on short-notice. Perhaps, they also care less about precision and want to optimize recall.</p>
+
+<div class="quote " ><p>Often, the change of scope results from not involving the right stakeholders at the beginning.</p>
+</div>
+
+<p>If we had known that the relationship management team funds the project, we would include metrics that they care about - be it NPS or the number of retweets. If we had known the call center employee is our user, we would include a robust model explainer - so they can optimize the first 3 seconds of a phone call before the customer puts their phone down with &ldquo;No, I don&rsquo;t need a new cellphone contract, for the third time this week&rdquo;.</p>
+<p>All of these stakeholders have needs that will creep into the project as time goes by. Mapping out the <ins><a href="https://www.mindtools.com/pages/article/newPPM_07.htm">stakeholder matrix</a></ins> early on in the project is a great way to manage them throughout the project life-cycle.</p>
+</br>
+<figure>
+    <img src="stakeholder_matrix.png"
+         alt="Example of the project stakeholder matrix (stakeholder placement will differ from a project-to-project basis). Created by Author."/> <figcaption>
+            <p>Example of the project stakeholder matrix (stakeholder placement will differ from a project-to-project basis). Created by Author.</p>
+        </figcaption>
+</figure>
+
+</br>
+<p>There are a lot of good materials on stakeholder analysis out there, but the gist is this:</p>
+<h3 id="dont-seek-to-satisfy-everyone">Don&rsquo;t seek to satisfy everyone.</h3>
+
+<div class="quote " ><p>Classify the type of change requests by how important these stakeholders are to the success of your project.</p>
+</div>
+
+<p>Otherwise, you will be running out of time and budget.</p>
+<h3 id="tip-2-use-a-very-specific-sentence-to-communicate-the-problem-statement">Tip 2: Use a very-specific sentence to communicate the problem statement</h3>
+<p>A project often has multiple touchpoints and the feature requests may come flying in. You need to remember the objective of your project by creating one very specific sentence.</p>
+
+<div class="quote " ><p>Use a very specific sentence to keep the objective in mind and the scope contained</p>
+</div>
+
+<p>Every time a request comes in, you can very quickly decide if it aligns with what you are trying to achieve.</p>
+<p>For example, you can have a vague sentence that says:</p>
+</br>
+<figure>
+    <img src="problem_statement_vague.png"/> 
+</figure>
+
+</br>
+<p>However, customer retention is a broad statement. Is active cancellation the only type of customer churn, or are package downgrade and lapsed subscription also included? Are we targeting just contract customers, or do we care more about high-value or high-reach customers?</p>
+<p>The following three sentences are better examples of refined problem statements:</p>
+</br>
+<figure>
+    <img src="problem_statement_clear.png"/> 
+</figure>
+
+</br>
+<p>It helps to break the sentences down into four parts:</p>
+<p>🔍 <strong>Identify/insights</strong>: is it a supervised or unsupervised problem? is it a classification or regression problem?</p>
+<p>❓<strong>What</strong> is the metric we are trying to optimize: number of active cancellation, or conversion rate for outbound calls?</p>
+<p>🙋‍♀ <strong>Who</strong> is it that we are targeting: all contract customers or just high-value customers who are eligible for an upgrade?</p>
+<p>🕰 <strong>When</strong> should the prediction take place: does it need to have fast prediction time when the customers call in, or can it be a nightly batched process to create the outbound calls list for the next day?</p>
+<p>If you cannot narrow down your sentence, then you most likely need to split your project into phases. For the churn model, you can start from identifying customer segments and use the results as an input feature to the active cancellation model.</p>
+<h3 id="tip-3-define-non-ambiguous-successmetrics">Tip 3: Define non-ambiguous success metrics</h3>
+<p>During model training, a lot of ideas are thrown around and tested by multiple team members. The simpler the metric, the easier it is for us to quickly determine if our efforts are pushing towards the right direction.
+Instead of trying to balance both precision and recall, it is easier for our brain to comprehend just the F1 score. Instead of comparing the F1-score between Region A and Region B, it is easier to understand the weighted-F1-score between both regions.</p>
+<p>A carefully chosen metric ensures that you are not fluffing around and tuning non-essential stuff</p>
+<p>It&rsquo;s fun to see that 0.1% of accuracy gains, but the investment is often not practical.</p>
+<p>Sometimes, when you have multiple metrics (say n metrics) that cannot be combined, you should <ins><a href="https://towardsdatascience.com/how-to-improve-my-ml-algorithm-lessons-from-andrew-ngs-experience-i-551ca1a32634">pick n-1 satisficing metric and just 1 optimizing metric</a></ins>:</p>
+<p>👍   <strong>Satisficing metric</strong>: the good enough metric. Typically have a threshold, such as model size smaller than 5MB or runtime less than 1 second.</p>
+<p>🚀   <strong>Optimizing metric</strong>: the metric to minimize or maximize. Typically have no bound, such as the highest accuracy I can get (theoretically it&rsquo;s 100% but you get my point).</p>
+<p>Having only one optimizing metric is the key to comparing multiple experiments. If we use the example from above:</p>
+</br>
+<figure>
+    <img src="problem_statement_metric.png"/> 
+</figure>
+
+</br>
+<p>👍   <strong>Satisficing metric</strong>: the speed of scoring to be below 2 seconds. This allows the call center agent to quickly decide if they want to offer this customer a better deal based on their probability of churn.</p>
+<p>🚀   <strong>Optimizing metric</strong>: the F1-score of predicting cancellation. A balanced view is required, so we make sure we offer good deals to customers who are likely to churn but don&rsquo;t give out too many good deals to those who might not.</p>
+</br>
+<blockquote>
+<p>Andrew Ng&rsquo;s discussed the idea of choosing a single metric in his book - <ins><a href="https://www.deeplearning.ai/machine-learning-yearning/">Machine Learning Yearning</a></ins>. I encourage everyone in the data profession to read this book. He also published a <ins><a href="https://www.coursera.org/learn/machine-learning-projects">Structuring Machine Learning Projects</a></ins> course on Coursera on this topic (and more).
+</br></p>
+</blockquote>
+<h3 id="bonus-use-a-roadmap-to-track-and-showprogress">Bonus: Use a roadmap to track and show progress</h3>
+<p>Projects run over all the time, it&rsquo;s not a big deal. What&rsquo;s a big deal is when you tell your stakeholder you&rsquo;re not done, on the day you&rsquo;re supposed to be done. All that business wants is to know you have a plan - and that you are proactively tracking it.</p>
+</br>
+<figure><a href="https://unsplash.com/photos/BjcGdM-mjL0">
+    <img src="late.jpeg"
+         alt="Photo by Andy Beales on Unsplash."/> </a><figcaption>
+            <p>Photo by Andy Beales on Unsplash.</p>
+        </figcaption>
+</figure>
+
+</br>
+
+<div class="quote " ><p>&ldquo;Unless commitment is made, there are only promises and hopes; but no plan.&rdquo; ~ Peter F. Drucker</p>
+</div>
+
+<p>Data science projects have a <ins><a href="https://www.oreilly.com/radar/what-you-need-to-know-about-product-management-for-ai/">host of challenges</a></ins> on top of traditional software projects: non-deterministic outcomes, accuracy or relevance uncertainty, opacity, fairness issues. These make AI a difficult sell to decision-makers and upper management.</p>
+<p>It is understandable why we always shy away from giving a timeline for data science projects. But this creates two problems:</p>
+<ul>
+<li>
+<p>The lack of transparency makes it tremendously scary for business, so they keep micro-managing your every move.</p>
+</li>
+<li>
+<p>It&rsquo;s just too easy for you to get stuck in researching some tangentially-related cool new techniques than delivering business value.</p>
+</li>
+</ul>
+<p>Put together a roadmap to keep you, and everyone you depend on, accountable.</p>
+</br>
+<figure>
+    <img src="roadmap.png"
+         alt="An example roadmap. Created by Author."/> <figcaption>
+            <p>An example roadmap. Created by Author.</p>
+        </figcaption>
+</figure>
+
+</br>
+<p>The roadmap needs to include at least the following 4 items:</p>
+<p>1⃣   <strong>What you will do</strong>: the actual tasks that you will be doing, such as evaluate environment readiness, consolidating input data, or creating a baseline model. These should be in small sprints (say 2–6 weeks), so it&rsquo;s easy to raise risks if it runs over.</p>
+<p>2⃣   <strong>What they can get</strong>: not everything you do directly translate to an outcome that the business can use, but it&rsquo;s important to try and fit your task to something they can consume. For example, after consolidating input data, it&rsquo;s easy to put together a quick slide deck or dashboard to communicate your results. Businesses can play with the dashboard, interrogate the results, and perhaps even help you create a feature or two.</p>
+<p>3⃣   <strong>When they can get it</strong>: give an estimated date on the completion of the task. Imagine you board a flight and the pilot tells you he&rsquo;s not sure when you will get to your destination - variable wind speed and all. Commit to a date that you think is reasonable and raise concerns early to manage expectations.</p>
+<p>4⃣   <strong>Protection</strong> against if things go wrong: in big projects, everyone has to work together and it is important to highlight that dependency to your stakeholders. Either they can help you chase after the team to give you the data you need, or they let you have another week finish.</p>
+<p>Lastly…</p>
+<h2 id="dont-be-afraid-to-ask-forhelp">Don&rsquo;t be afraid to ask for help.</h2>
+<p>You never know what they&rsquo;re going to say unless you ask. To my surprise, a former client decided to hire two additional resources when I explained to him that he can get the results he needs faster.</p>
+
+<div class="pdivider " ><p>. . .</p>
+</div>
+
+<p>If you like this post, I have posted similar topics on this before:</p>
+<ul>
+<li>
+<p><ins><a href="https://merelda.com/blog/speak-to-business/">3 Tips on Defining a Data Science Project Scope with Business</a></ins></p>
+</li>
+<li>
+<p><ins><a href="https://merelda.com/blog/data-science-reading-list/">Rise above the ordinary - a data science reading list</a></ins></p>
+</li>
+</ul>
+
+<div class="pdivider " ><p>. . .</p>
+</div>
+
+<p>Thanks for reading ⭐ Follow me on <ins><a href="https://medium.com/@mereldawu">Medium</a></ins>, <ins><a href="https://www.linkedin.com/in/mereldawu/">LinkedIn</a></ins>, or visit my <ins><a href="merelda.com">Website</a></ins>. Also, if you want an evaluation of your machine learning deployment framework, <ins><a href="info@melio.co.za">email us</a></ins> at Melio Consulting.</p>
+</br>
+</br>
+</br>
+                    </div>
+                    
+                    
+                    <div class="after-post-tags">
+                        <ul class="tags">
+                        
+                        <li>
+                        <a href="/tags/all">all</a>
+                        </li>
+                        
+                        <li>
+                        <a href="/tags/medium">medium</a>
+                        </li>
+                        
+                        <li>
+                        <a href="/tags/speak-to-business">speak-to-business</a>
+                        </li>
+                        
+                        <li>
+                        <a href="/tags/datascience">datascience</a>
+                        </li>
+                        
+                        </ul>
+                    </div>
+                    
+                    
+                    
+                    <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
+                    
+                    
+                        <a class="d-block col-md-6 text-lg-right" href="https://merelda.com/blog/data-science-reading-list/">Rise above the ordinary — a data science reading list &raquo;</a>
+                    
+                    <div class="clearfix"></div>
+                    </div>
+                    
+                </div>
+                
+            </div>
+        </div>
+        
+        
+    </div>
+
+
+            </div>
+<div class="jumbotron fortags">
+	<div class="d-md-flex h-30">
+		
+		<div class="col-md-12 p-5 align-self-center text-center">
+			
+			<a class="mt-1 mb-1" href="/tags/all">all</a>
+			
+			<a class="mt-1 mb-1" href="/tags/conference">conference</a>
+			
+			<a class="mt-1 mb-1" href="/tags/datascience">datascience</a>
+			
+			<a class="mt-1 mb-1" href="/tags/linkedin">linkedin</a>
+			
+			<a class="mt-1 mb-1" href="/tags/medium">medium</a>
+			
+			<a class="mt-1 mb-1" href="/tags/reading-summary">reading-summary</a>
+			
+			<a class="mt-1 mb-1" href="/tags/speak-to-business">speak-to-business</a>
+			
+			<a class="mt-1 mb-1" href="/tags/thoughts">thoughts</a>
+			
+		</div>
+	</div>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                &copy; Copyright 
+            </div>
+            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
+                
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+        </div>
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+<script src="/js/mediumish.js"></script>
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-163819344-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+    </body>
+</html>

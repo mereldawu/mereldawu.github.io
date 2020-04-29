@@ -6,17 +6,44 @@
     <description>Recent content in Tags on Hi, I&#39;m Merelda ❤</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2020 18:08:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2020 10:55:06 +0200</lastBuildDate>
     
 	<atom:link href="https://merelda.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>all</title>
+      <link>https://merelda.com/tags/all/</link>
+      <pubDate>Wed, 29 Apr 2020 10:55:06 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>datascience</title>
       <link>https://merelda.com/tags/datascience/</link>
-      <pubDate>Tue, 14 Apr 2020 18:08:20 +0200</pubDate>
+      <pubDate>Wed, 29 Apr 2020 10:55:06 +0200</pubDate>
       
       <guid>https://merelda.com/tags/datascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medium</title>
+      <link>https://merelda.com/tags/medium/</link>
+      <pubDate>Wed, 29 Apr 2020 10:55:06 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/medium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speak-to-business</title>
+      <link>https://merelda.com/tags/speak-to-business/</link>
+      <pubDate>Wed, 29 Apr 2020 10:55:06 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/speak-to-business/</guid>
       <description></description>
     </item>
     
@@ -39,38 +66,11 @@
     </item>
     
     <item>
-      <title>all</title>
-      <link>https://merelda.com/tags/all/</link>
-      <pubDate>Tue, 14 Apr 2020 17:32:02 +0200</pubDate>
-      
-      <guid>https://merelda.com/tags/all/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>medium</title>
-      <link>https://merelda.com/tags/medium/</link>
-      <pubDate>Tue, 14 Apr 2020 17:32:02 +0200</pubDate>
-      
-      <guid>https://merelda.com/tags/medium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>thoughts</title>
       <link>https://merelda.com/tags/thoughts/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0200</pubDate>
       
       <guid>https://merelda.com/tags/thoughts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>speak-to-business</title>
-      <link>https://merelda.com/tags/speak-to-business/</link>
-      <pubDate>Thu, 26 Sep 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://merelda.com/tags/speak-to-business/</guid>
       <description></description>
     </item>
     

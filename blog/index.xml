@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Hi, I&#39;m Merelda ❤</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2020 17:32:02 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2020 10:55:06 +0200</lastBuildDate>
     
 	<atom:link href="https://merelda.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3 Tips You Need To Save Your Data Science Project Scope</title>
+      <link>https://merelda.com/blog/project-scope-management/</link>
+      <pubDate>Wed, 29 Apr 2020 10:55:06 +0200</pubDate>
+      
+      <guid>https://merelda.com/blog/project-scope-management/</guid>
+      <description>Never spend another second building a monster-app that is miles away from the original scope.</description>
+    </item>
     
     <item>
       <title>Rise above the ordinary — a data science reading list</title>
