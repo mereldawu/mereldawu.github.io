@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Lora&family=Rubik&display=swap');
+
 .index-title{
     font-family: Rubik;
     color: #5a554e;
@@ -58,7 +60,7 @@
 }
 
 div.quote p {
-    font-family: medium-content-title-font, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-family: "Open Sans", Georgia, Cambria, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 30px;
     line-height: 50px;
