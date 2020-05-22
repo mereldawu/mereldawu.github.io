@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-163819344-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+	<meta name="generator" content="Hugo 0.67.1" />
+	
+	<link rel="icon" href="/images/merelda_logo.png">
+	
+	<title>Hi, I'm Merelda :)</title>
+	
+	
+
+	<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://merelda.com/blog/launching-into-uncertainty/cover.png"/>
+<meta name="twitter:title" content="Launching Into Uncertainty - 6 Smart Steps to Future-Proof Your ML Models"/>
+<meta name="twitter:description" content="Your machine learning model is going to fail in the pandemic."/>
+
+	<meta property="og:title" content="Launching Into Uncertainty - 6 Smart Steps to Future-Proof Your ML Models" />
+<meta property="og:description" content="Your machine learning model is going to fail in the pandemic." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://merelda.com/blog/launching-into-uncertainty/" />
+<meta property="og:image" content="https://merelda.com/blog/launching-into-uncertainty/cover.png"/>
+<meta property="article:published_time" content="2020-05-22T17:21:36+02:00" />
+<meta property="article:modified_time" content="2020-05-22T17:21:36+02:00" />
+
+
+	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
+	 crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+	<link href="/css/medium.css" rel="stylesheet">
+	<link href="/css/additional.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+    <div class="container pr-0">
+        
+        <a class="navbar-brand" href="https://merelda.com//">
+
+            
+            <img src="/images/merelda_logo.png" alt="logo">
+            
+        </a>
+        
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent"
+            aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        
+        <div class="collapse navbar-collapse" id="navbarMediumish">
+            
+            <ul class="navbar-nav ml-auto">
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/blog">Blog</a>
+                </li>
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/posts">Posts</a>
+                </li>
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/static/quotes">Quotes</a>
+                </li>
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/cv">CV</a>
+                </li>
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/">About Me</a>
+                </li>
+                
+            </ul>
+        </div>
+        
+    </div>
+</nav>
+
+
+        <div class="site-content">   
+            <div class="container">
+<div class="mainheading">
+    <h1 class="sitetitle">Hi, I&#39;m Merelda ❤</h1>
+    <p class="lead">
+         
+    </p>
+</div><div class="main-content">
+        
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-md-2 pl-0"><div class="share sticky-top sticky-top-offset">
+    <p>Share</p>
+    <ul>
+        <li class="ml-1 mr-1">
+        <a target="_blank" href="https://twitter.com/intent/tweet?text=Launching%20Into%20Uncertainty%e2%80%8a-%e2%80%8a6%20Smart%20Steps%20to%20Future-Proof%20Your%20ML%c2%a0Models&url=https%3a%2f%2fmerelda.com%2fblog%2flaunching-into-uncertainty%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=435');return false;">
+        <i class="fab fa-twitter"></i>
+        </a>
+        </li>
+        
+        <li class="ml-1 mr-1">
+        <a target="_blank" href="https://facebook.com/sharer.php?u=https%3a%2f%2fmerelda.com%2fblog%2flaunching-into-uncertainty%2f" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+        <i class="fab fa-facebook-f"></i>
+        </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+        <a target="_blank" href="https://www.xing.com/spi/shares/new?url=https%3a%2f%2fmerelda.com%2fblog%2flaunching-into-uncertainty%2f" onclick="window.open(this.href, 'xing-share', 'width=550,height=435');return false;">
+        <i class="fab fa-xing"></i>
+        </a>
+        </li>        
+    </ul>
+
+    
+</div>
+</div>
+                                
+                <div class="col-md-9 flex-first flex-md-unordered">
+                    <div class="mainheading">
+                        	
+                        
+                        
+                        
+                        <div class="row post-top-meta">
+                            <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0 md-nopad-right">
+                                <img class="author-thumb" src="/images/profile.png" alt="Merelda Wu">
+                            </div>
+                            <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left md-nopad-left">
+                                <a target="_blank" class="link-dark">Merelda Wu</a><br>
+                                <span class="author-description">
+                                    𐄁𐄙𐄁𐄙𐄁𐄙𐄁𐄙𐄁𐄙𐄁𐄙𐄁𐄙𐄙𐄁𐄙𐄙𐄁𐄙𐄁<br>
+                                    <i class="far fa-star"></i>
+                                    May 22, 2020
+                                    <i class="far fa-clock clock"></i>
+                                    10 min read
+                                </span>					
+                            </div>
+                        </div>			
+                        	
+                        
+                                                
+                        
+                        <h1 class="posttitle">Launching Into Uncertainty - 6 Smart Steps to Future-Proof Your ML Models</h1> 
+                    </div>
+
+                    
+                    
+                    
+                        
+                    
+                    
+
+                    
+                    <div class="article-post">
+                        <blockquote>
+<p>Your machine learning model is going to fail in the pandemic. Here&rsquo;s how to mitigate the damage.</p>
+</blockquote>
+<figure>
+    <img src="cover.png"
+         alt="Photo by Anastasia Patrova from Unsplash."/> <figcaption>
+            <p>Photo by Anastasia Patrova from Unsplash.</p>
+        </figcaption>
+</figure>
+
+<p>There have been many articles focusing on how machine learning can and is helping during the pandemic. South Korean and Taiwanese governments successfully demonstrated how they used AI to <ins><a href="https://medium.com/r/?url=https%3A%2F%2Fhbr.org%2F2020%2F04%2Fhow-digital-contact-tracing-slowed-covid-19-in-east-asia">slow the spread of COVID-19</a></ins>. French tech company identifying hot spots where masks are not being worn, advising where governments can focus on education. Data and medical professionals collaborating to index medical journal papers on COVID-19.</p>
+<p>Participation from the data science community is inspiring and the results are outstanding.</p>
+<p>But this post is about the opposite. I am not here to tout the successes of machine learning. I am here to cast a little doubt on all its glory and wonders. I&rsquo;m here to ask the question:</p>
+<blockquote>
+<p>Are you watching your machine learning models during this uncertain time?</p>
+</blockquote>
+<p>And why not?</p>
+<figure>
+    <img src="monitor.jpg"
+         alt="Photo by Stephen Dawson from Unsplash."/> <figcaption>
+            <p>Photo by Stephen Dawson from Unsplash.</p>
+        </figcaption>
+</figure>
+
+<p>Real-life data often diverges from training data. From the day you release the accurate, stable model into production, its performance has been degrading every day as your customers evolve. With COVID-19, it is as if the model is released from the safe, incubated Petri dish to the wild wild west.</p>
+<p>With the policy changes, the interest rate drops, and the payment holidays, the sudden data shift can have a profound impact on your model. It&rsquo;s okay to have a decrease in model accuracy, but it is not okay to be ignorant of the changes.</p>
+
+<div class="quote " ><p>It&rsquo;s okay to have a drop in model accuracy, but it is not okay to be ignorant of the changes</p>
+</div>
+
+<p>For the past couple of weeks, I have been involved in impact assessment for these machine learning models. It was overwhelming initially, so I gathered some practical steps in the hopes that other teams can approach the process with a bit more confidence and a bit less panic:</p>
+<figure>
+    <img src="infographic.png"
+         alt="Photo by Stephen Dawson from Unsplash."/> <figcaption>
+            <p>Photo by Stephen Dawson from Unsplash.</p>
+        </figcaption>
+</figure>
+
+
+<div class="pdivider " ><p>. . .</p>
+</div>
+
+<h3 id="step-1-identify-affected-use-cases-and-stakeholders">Step 1: Identify affected use cases and stakeholders</h3>
+<figure>
+    <img src="step1_icon.png"
+         alt="Icon from Eucalyp, adapted by Author."/> <figcaption>
+            <p>Icon from Eucalyp, adapted by Author.</p>
+        </figcaption>
+</figure>
+
+<p>Not all use cases will be affected by the pandemic, like not all models will suffer from <ins><a href="https://medium.com/r/?url=https%3A%2F%2Fmachinelearningmastery.com%2Fgentle-introduction-concept-drift-machine-learning%2F">data or concept drift</a></ins>.</p>
+<p>The first step in any software assessment is the same as the first step in any software development: ask questions.</p>
+
+<div class="quote " ><p>Ask a bunch of questions.</p>
+</div>
+
+<p>If you have many on-going use cases and not sure which to tackle first, begin by asking these: </p>
+<p>❓ Am I modeling human behavior? (i.e. items purchased during Easter, home loans down payment)</p>
+<p>❓Did I have any inherent assumptions about the government or corporation policies that have changed during the crisis (i.e. travel bans, payment holiday from the bank)</p>
+<p>Once you have identified the use cases, then pinpoint the stakeholders affected by these use cases. The stakeholders are often subject matter experts in the domain, so they may be able to assist you in step 2 below.</p>
+<p><strong>Draw a decision tree for yourself.</strong></p>
+<p>If your system touched a human or a policy, carry on with Step 2. </p>
+<p><em>Otherwise, move on.</em></p>
+<h3 id="step-2-assess-the-risks-and-exposures-for-when-things-gowrong">Step 2: Assess the risks and exposures for when things go wrong</h3>
+<figure>
+    <img src="step2_icon.png"
+         alt="Icon from Eucalyp, adapted by Author."/> <figcaption>
+            <p>Icon from Eucalyp, adapted by Author.</p>
+        </figcaption>
+</figure>
+
+<p>This pandemic is a classic case of a black swan event. It&rsquo;s a rare and unexpected virus outbreak with severe consequences. </p>
+<p>So the chances are, things are going to go wrong, but how wrong?</p>
+
+<div class="quote " ><p>Things are going to go wrong, but just how wrong?</p>
+</div>
+
+<p><ins><a href="https://www.kaushik.net/avinash/create-high-impact-effective-data-visualizations/#whatifmodels">Scenario analysis</a></ins> can help us navigate these extreme conditions.</p>
+<p>Speaking to the SME (subject matter experts) from the business is incredibly valuable in this step. They often have many questions they want answers to, and data scientists would analyze the data to generate insight packs to these questions. This is the time when these questions can help you interrogate your models. </p>
+<p>As an example,</p>
+<blockquote>
+<p>&ldquo;What happens to our bottom line if real estate sales are decimated?&rdquo;</p>
+</blockquote>
+<p>Well, this is the time to test it out. If you are modeling the revenue generated from home loans, then examine the data when home loan sales are low (winter months in a summer vacation town). From there, tweak it with the suggestions from the SME and generate a fake input dataset and run it through your model. This can help you assess the areas when the model is at risk. </p>
+<p>Giving a quantitative number can help businesses make tough decisions. Even though we feel like we don&rsquo;t have enough information to provide a prediction, decisions still have to be made. Loans still need to be granted and toilet papers still need to be shipped. Instead of pushing the responsibilities further along the chain, we should focus on doing the best we can.</p>
+<p><strong>Give a prediction with all the asterisks attached to it.</strong></p>
+<p>If the impact is large, proceed to step 3 for a thorough examination. </p>
+<p><em>Otherwise, move on.</em></p>
+<h3 id="step-3-check-your-entire-solution-for-vulnerabilities">Step 3: Check your entire solution for vulnerabilities</h3>
+<figure>
+    <img src="step3_icon.png"
+         alt="Icon from Eucalyp, adapted by Author."/> <figcaption>
+            <p>Icon from Eucalyp, adapted by Author.</p>
+        </figcaption>
+</figure>
+
+<p>Machine learning solutions are more than the model itself. There is the data engineering pipeline, inference, and model retraining. It is important to scan the entire solution end-to-end to find vulnerabilities.</p>
+
+<div class="quote " ><p>Machine learning solution is more than just the model</p>
+</div>
+
+<p>Here are some areas you can look at:</p>
+<p>⏩ Will a bulk quantity break your pipeline? Some supplier&rsquo;s predictive algorithms were broken by a sudden change in order quantity. On the other hand, some fraud detection systems were overwhelmed by false positives.</p>
+<p>⏩ Has the baseload on your infrastructure changed? Some models are less relevant and some are even more important, shifting your computing resources can even out the cost. </p>
+<p>⏩ Investigate the global and local feature-importance of your model. Are your top features sensitive to the pandemic? Should they be? There are many articles about explainable AI, and in the time of the unknown, inference explainability could give the transparency people need. </p>
+<p><strong>Define checks throughout your entire pipeline.</strong></p>
+<p>By the time you reached Step 3, you already determined that your solution is affected by the crisis. So carry on to Step 4.</p>
+<p><em>There is will be no moving on from this point on, only moving forward.</em></p>
+<h3 id="step-4-set-up-automated-alerting-andhealing">Step 4: Set up automated alerting and healing</h3>
+<figure>
+    <img src="step4_icon.png"
+         alt="Icon from Eucalyp, adapted by Author."/> <figcaption>
+            <p>Icon from Eucalyp, adapted by Author.</p>
+        </figcaption>
+</figure>
+
+<p>If you are reading this article, you probably don&rsquo;t have monitoring systems in place. Otherwise, you would be setting up 500 Jira tickets and be on top of your next steps.</p>
+
+<div class="quote " ><p>Deploying a machine learning model is like flying an airplane</p>
+</div>
+
+<p>☑️ : Having no logging is like flying without a Blackbox. Any terrorist can hijack the plane without any consequences.</p>
+<p>🖥️ : Having no monitoring is like flying blind in new airspace. The pilot has no idea where he&rsquo;s going, and neither do you.</p>
+<p>🌪️️: Having no resilient infrastructure is like flying with an unmaintained engine. The ticket is cheap but the plane could go down at any time.</p>
+<br>
+<figure>
+    <img src="deploy.png"
+         alt="Photo by Kaotaru from Unsplash, edited by melio.ai"/> <figcaption>
+            <p>Photo by Kaotaru from Unsplash, edited by melio.ai</p>
+        </figcaption>
+</figure>
+
+<p>You won&rsquo;t board a plane with a blind pilot and a broken engine, why would you deploy a model without logging, monitoring, and resilient infrastructure?</p>
+<h5 id="lets-set-aside-monitoring-what-abouthealing">Let&rsquo;s set aside monitoring, what about healing?</h5>
+
+<div class="pdivider " ><p>. . .</p>
+</div>
+
+<p>Many matured machine learning solutions have automated <ins><a href="https://docs.aws.amazon.com/machine-learning/latest/dg/retraining-models-on-new-data.html">retraining</a></ins> built into the system. But in these extreme events, it may be worth taking a look at the <em>refreshed</em> models. Are they using the latest data for the prediction? Should they be?</p>
+<p>Automatically redeploying the refreshed models could be risky when facing the unknown. A human-in-the-loop approach could be both an interim and a strategic solution.</p>
+<p>1️⃣ Setup automated retraining and reporting (with business KPI as well as the spot checks defined in Step 3).</p>
+<p>2️⃣ Alert a human for approval, with more stringent alerting criteria during the pandemic period.</p>
+<p>3️⃣ If Steps 1–3 were conducted rigorously, and the risks and exposures acknowledged, then we may be ready to redeploy the models.</p>
+<p><strong>Monitor data and model drift and redeploy if necessary.</strong></p>
+<p><em>If you are still not sure, set-up <ins><a href="https://martinfowler.com/articles/cd4ml.html">canary deployment</a></ins> and redirect a small portion of your traffic to the new model. Then slowly phase out the old one when the new model is stable.</em></p>
+<h3 id="step-5-unpack-and-communicate-future-challenges">Step 5: Unpack and communicate future challenges</h3>
+<figure>
+    <img src="step5_icon.png"
+         alt="Icon from Eucalyp, adapted by Author."/> <figcaption>
+            <p>Icon from Eucalyp, adapted by Author.</p>
+        </figcaption>
+</figure>
+
+<p>The COVID-19 impact ranges from short-supply of toilet paper to a meltdown of the global economy. Most if not all industries are affected, either positively or negatively.</p>
+
+<div class="quote " ><p>The abnormality may become the new norm</p>
+</div>
+
+<p>Long term effects such as remote working, a surge in bankruptcy, structural unemployment as well as travel restrictions are unclear. When the historical data is not applicable in this unprecedented situation, the &ldquo;abnormality&rdquo; may become the new norm. This forces us to go back and unpack the fundamental business question and rethink many assumptions.</p>
+<p>⏩ Do we include the pandemic data into future model training?</p>
+<p>⏩ Do we include new features that better reflects the current reality?</p>
+<p>⏩ Should we tune the model sensitivity when major disruptions occur? </p>
+<p>⏩ Do we need to re-evaluate the model metrics chosen before the pandemic?</p>
+<p>⏩ Do we revert all the above when things &ldquo;return to normal&rdquo;?</p>
+<p><strong>There are more questions than answers at this stage. It would be premature to blindly recommend &ldquo;best practices&rdquo;.</strong></p>
+<p><em>The only way is to stay curious, keep communications open, acknowledge risks, and take it one step at a time.</em></p>
+<h3 id="step-6-build-fallback-systems-to-mitigate-theimpact">Step 6: Build fallback systems to mitigate the impact</h3>
+<figure>
+    <img src="step6_icon.png"
+         alt="Icon from Eucalyp, adapted by Author."/> <figcaption>
+            <p>Icon from Eucalyp, adapted by Author.</p>
+        </figcaption>
+</figure>
+
+<p>Have you wondered why dung beetles don&rsquo;t get lost?</p>
+<p>These tiny insects use a combination of guiding systems to help them achieve the highest precision possible. When one system is not reliable, <ins><a href="https://www.businesslive.co.za/bd/national/science-and-environment/2019-10-29-wits-university-and-lund-university-make-groundbreaking-discovery-about-dung-beetles/">they switch to use another</a></ins>.</p>
+
+<div class="quote " ><p>When you don&rsquo;t have any data, you have to use reason ~Richard Feynman</p>
+</div>
+
+<p>The famous physicist and Nobel Laurette Richard  Feynman, on investigating the NASA Challenger program disaster said: &ldquo;When you don&rsquo;t have any data, you have to use reason.&rdquo; (extracted from <ins><a href="https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484">Range by David Epstein</a></ins>, Chapter 9). </p>
+<p>This particularly rings true when machine learning depends on historical patterns. When historical patterns are not reliable, alternative strategies need to be called upon:</p>
+<p>⏩ Unsupervised or semi-supervised approaches can help redefine the problem space. Create new segmentations for existing users based on their new behaviors. A past outdoor junkie could be the now mindful yogi. </p>
+<p>⏩ Stress-testing: the scenario analysis framework set up in Step 2 can be used to load various extremes of input data. </p>
+<p>⏩ Ensemble or Choose: Ensembling is popular owing to its ability to create a strong learner by combining multiple weak learners. Sometimes, that may not be necessary. It is possible to have multiple models for one use case. The engineering pipeline can detect changes or attributes, and use the most appropriate model for inference. </p>
+<p><strong>Or all the above, with the human-in-the-loop.</strong></p>
+<p><em>And that is why ladies and gentlemen - AutoML is not going to replace data scientists. Be the voice of reason.  Chat to the SMEs. Keep calm and carry on.</em></p>
+
+<div class="pdivider " ><p>. . .</p>
+</div>
+
+<p>Navigating changes in this uncertain time is challenging. Nobody is certain of anything, and it can be daunting to make a prediction. Following these steps can guide you through unforeseen problems:</p>
+<p>1️⃣ Go back to fundamentals, what is this use case about?</p>
+<p>2️⃣ Question &amp; explain your model</p>
+<p>3️⃣ Spot check your entire solution</p>
+<p>4️⃣ Set up logging &amp; monitoring framework</p>
+<p>5️⃣ Retrain and redeploy</p>
+<p>6️⃣ Future-proof yourself by staying curious</p>
+<p>7️⃣ Be the voice of reason, keep calm and carry on</p>
+
+<div class="pdivider " ><p>. . .</p>
+</div>
+
+<p>Thanks for reading ⭐ Follow me on <ins><a href="https://medium.com/@mereldawu">Medium</a></ins>, <ins><a href="https://www.linkedin.com/in/mereldawu/">LinkedIn</a></ins>, or visit my <ins><a href="merelda.com">Website</a></ins>. Also, if you want an evaluation of your machine learning deployment framework, <ins><a href="info@melio.co.za">email us</a></ins> at Melio Consulting.</p>
+</br>
+</br>
+</br>
+                    </div>
+                    
+                    
+                    <div class="after-post-tags">
+                        <ul class="tags">
+                        
+                        <li>
+                        <a href="/tags/medium">medium</a>
+                        </li>
+                        
+                        <li>
+                        <a href="/tags/datascience">datascience</a>
+                        </li>
+                        
+                        <li>
+                        <a href="/tags/mlops">mlops</a>
+                        </li>
+                        
+                        </ul>
+                    </div>
+                    
+                    
+                    
+                    <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
+                    
+                    
+                        <a class="d-block col-md-6 text-lg-right" href="https://merelda.com/blog/project-scope-management/">3 Tips You Need To Save Your Data Science Project Scope &raquo;</a>
+                    
+                    <div class="clearfix"></div>
+                    </div>
+                    
+                </div>
+                
+            </div>
+        </div>
+        
+        
+    </div>
+
+
+            </div>
+<div class="jumbotron fortags">
+	<div class="d-md-flex h-30">
+		
+		<div class="col-md-12 p-5 align-self-center text-center">
+			
+			<a class="mt-1 mb-1" href="/tags/all">all</a>
+			
+			<a class="mt-1 mb-1" href="/tags/conference">conference</a>
+			
+			<a class="mt-1 mb-1" href="/tags/datascience">datascience</a>
+			
+			<a class="mt-1 mb-1" href="/tags/linkedin">linkedin</a>
+			
+			<a class="mt-1 mb-1" href="/tags/medium">medium</a>
+			
+			<a class="mt-1 mb-1" href="/tags/mlops">mlops</a>
+			
+			<a class="mt-1 mb-1" href="/tags/reading-summary">reading-summary</a>
+			
+			<a class="mt-1 mb-1" href="/tags/speak-to-business">speak-to-business</a>
+			
+			<a class="mt-1 mb-1" href="/tags/thoughts">thoughts</a>
+			
+		</div>
+	</div>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                &copy; Copyright 
+            </div>
+            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
+                
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+        </div>
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+<script src="/js/mediumish.js"></script>
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-163819344-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+    </body>
+</html>

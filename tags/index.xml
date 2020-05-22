@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Hi, I&#39;m Merelda ❤</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2020 15:55:36 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 17:21:36 +0200</lastBuildDate>
     
 	<atom:link href="https://merelda.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>datascience</title>
       <link>https://merelda.com/tags/datascience/</link>
-      <pubDate>Wed, 29 Apr 2020 15:55:36 +0200</pubDate>
+      <pubDate>Fri, 22 May 2020 17:21:36 +0200</pubDate>
       
       <guid>https://merelda.com/tags/datascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medium</title>
+      <link>https://merelda.com/tags/medium/</link>
+      <pubDate>Fri, 22 May 2020 17:21:36 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/medium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mlops</title>
+      <link>https://merelda.com/tags/mlops/</link>
+      <pubDate>Fri, 22 May 2020 17:21:36 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/mlops/</guid>
       <description></description>
     </item>
     
@@ -44,15 +62,6 @@
       <pubDate>Wed, 29 Apr 2020 10:55:06 +0200</pubDate>
       
       <guid>https://merelda.com/tags/all/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>medium</title>
-      <link>https://merelda.com/tags/medium/</link>
-      <pubDate>Wed, 29 Apr 2020 10:55:06 +0200</pubDate>
-      
-      <guid>https://merelda.com/tags/medium/</guid>
       <description></description>
     </item>
     

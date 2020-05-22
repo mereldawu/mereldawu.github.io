@@ -6,10 +6,19 @@
     <description>Recent content in medium on Hi, I&#39;m Merelda ❤</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2020 10:55:06 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 17:21:36 +0200</lastBuildDate>
     
 	<atom:link href="https://merelda.com/tags/medium/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Launching Into Uncertainty - 6 Smart Steps to Future-Proof Your ML Models</title>
+      <link>https://merelda.com/blog/launching-into-uncertainty/</link>
+      <pubDate>Fri, 22 May 2020 17:21:36 +0200</pubDate>
+      
+      <guid>https://merelda.com/blog/launching-into-uncertainty/</guid>
+      <description>Your machine learning model is going to fail in the pandemic.</description>
+    </item>
     
     <item>
       <title>3 Tips You Need To Save Your Data Science Project Scope</title>
