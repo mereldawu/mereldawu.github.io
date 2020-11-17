@@ -3,17 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://merelda.com/blog/</loc>
-    <lastmod>2020-05-22T17:21:36+02:00</lastmod>
+    <loc>https://merelda.com/</loc>
+    <lastmod>2020-11-17T23:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/static/projects/</loc>
+    <lastmod>2020-11-17T23:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/static/</loc>
+    <lastmod>2020-11-17T23:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/static/talks/</loc>
+    <lastmod>2020-11-17T22:10:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://merelda.com/tags/datascience/</loc>
-    <lastmod>2020-05-22T17:21:36+02:00</lastmod>
+    <lastmod>2020-11-10T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://merelda.com/</loc>
+    <loc>https://merelda.com/tags/linkedin/</loc>
+    <lastmod>2020-11-10T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/posts/</loc>
+    <lastmod>2020-11-10T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/tags/reading-summary/</loc>
+    <lastmod>2020-11-10T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/tags/</loc>
+    <lastmod>2020-11-10T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/posts/test-data-pipeline/</loc>
+    <lastmod>2020-11-10T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/posts/best-of-breed/</loc>
+    <lastmod>2020-09-29T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/posts/roadblocks-to-production/</loc>
+    <lastmod>2020-07-29T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/posts/recession-on-data-science/</loc>
+    <lastmod>2020-07-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/posts/missed-opportunity/</loc>
+    <lastmod>2020-07-23T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/posts/valohai-mlops-stack/</loc>
+    <lastmod>2020-07-23T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/posts/age-of-ml-ops/</loc>
+    <lastmod>2020-07-07T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merelda.com/blog/</loc>
     <lastmod>2020-05-22T17:21:36+02:00</lastmod>
   </url>
   
@@ -30,26 +100,6 @@
   <url>
     <loc>https://merelda.com/tags/mlops/</loc>
     <lastmod>2020-05-22T17:21:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://merelda.com/tags/</loc>
-    <lastmod>2020-05-22T17:21:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://merelda.com/tags/linkedin/</loc>
-    <lastmod>2020-04-29T15:55:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://merelda.com/posts/</loc>
-    <lastmod>2020-04-29T15:55:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://merelda.com/tags/reading-summary/</loc>
-    <lastmod>2020-04-29T15:55:36+02:00</lastmod>
   </url>
   
   <url>
@@ -74,11 +124,6 @@
   
   <url>
     <loc>https://merelda.com/static/quotes/</loc>
-    <lastmod>2020-04-16T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://merelda.com/static/</loc>
     <lastmod>2020-04-16T10:00:00+02:00</lastmod>
   </url>
   

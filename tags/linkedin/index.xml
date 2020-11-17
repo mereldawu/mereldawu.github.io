@@ -6,10 +6,73 @@
     <description>Recent content in linkedin on Hi, I&#39;m Merelda ❤</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2020 15:55:36 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://merelda.com/tags/linkedin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why data quality is key to successful ML Ops</title>
+      <link>https://merelda.com/posts/test-data-pipeline/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/test-data-pipeline/</guid>
+      <description>Are you testing your data in your data pipeline 🧪?</description>
+    </item>
+    
+    <item>
+      <title>Why Best-of-Breed is a Better Choice than All-in-One Platforms for Data Science</title>
+      <link>https://merelda.com/posts/best-of-breed/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/best-of-breed/</guid>
+      <description>Interesting view from O&amp;rsquo;Reilly on why Best-of-Breed trumps All-in-One data science platforms ‼️</description>
+    </item>
+    
+    <item>
+      <title>Roadblocks to Production Vary for Different Roles</title>
+      <link>https://merelda.com/posts/roadblocks-to-production/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/roadblocks-to-production/</guid>
+      <description>Roadblocks to model production vary for different roles 🚧</description>
+    </item>
+    
+    <item>
+      <title>The Recession&#39;s Impact on Analytics and Data Science]</title>
+      <link>https://merelda.com/posts/recession-on-data-science/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/recession-on-data-science/</guid>
+      <description>We have all felt the impact of the recession in one way or another.</description>
+    </item>
+    
+    <item>
+      <title>How to Bridge Missed Opportunity</title>
+      <link>https://merelda.com/posts/missed-opportunity/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/missed-opportunity/</guid>
+      <description>You hired 5x ML Professionals, but you are not getting 5x the return.</description>
+    </item>
+    
+    <item>
+      <title>How to Bridge Missed Opportunity</title>
+      <link>https://merelda.com/posts/valohai-mlops-stack/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/valohai-mlops-stack/</guid>
+      <description>Found a beautiful and clean illustration from Valohai on MLOps Stack.</description>
+    </item>
+    
+    <item>
+      <title>Which Age of MLOps Are You In?</title>
+      <link>https://merelda.com/posts/age-of-ml-ops/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/posts/age-of-ml-ops/</guid>
+      <description>It&amp;rsquo;s 2020 - which &amp;ldquo;Age&amp;rdquo; of MLOps are you in❓</description>
+    </item>
     
     <item>
       <title>With AI, You Either Go Big or Go Home</title>

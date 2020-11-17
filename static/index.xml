@@ -6,10 +6,28 @@
     <description>Recent content in Statics on Hi, I&#39;m Merelda ❤</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2020 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2020 23:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://merelda.com/static/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>https://merelda.com/static/projects/</link>
+      <pubDate>Tue, 17 Nov 2020 23:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/static/projects/</guid>
+      <description>Here are some of my professional projects.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://merelda.com/static/talks/</link>
+      <pubDate>Tue, 17 Nov 2020 22:10:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/static/talks/</guid>
+      <description>This section is the talks I did for meet-ups, conferences interviews and others.</description>
+    </item>
     
     <item>
       <title>Quotes</title>

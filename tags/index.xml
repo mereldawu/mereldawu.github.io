@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Hi, I&#39;m Merelda ❤</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2020 17:21:36 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://merelda.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>datascience</title>
       <link>https://merelda.com/tags/datascience/</link>
-      <pubDate>Fri, 22 May 2020 17:21:36 +0200</pubDate>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0200</pubDate>
       
       <guid>https://merelda.com/tags/datascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linkedin</title>
+      <link>https://merelda.com/tags/linkedin/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/linkedin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading-summary</title>
+      <link>https://merelda.com/tags/reading-summary/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/reading-summary/</guid>
       <description></description>
     </item>
     
@@ -35,24 +53,6 @@
       <pubDate>Fri, 22 May 2020 17:21:36 +0200</pubDate>
       
       <guid>https://merelda.com/tags/mlops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linkedin</title>
-      <link>https://merelda.com/tags/linkedin/</link>
-      <pubDate>Wed, 29 Apr 2020 15:55:36 +0200</pubDate>
-      
-      <guid>https://merelda.com/tags/linkedin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reading-summary</title>
-      <link>https://merelda.com/tags/reading-summary/</link>
-      <pubDate>Wed, 29 Apr 2020 15:55:36 +0200</pubDate>
-      
-      <guid>https://merelda.com/tags/reading-summary/</guid>
       <description></description>
     </item>
     
