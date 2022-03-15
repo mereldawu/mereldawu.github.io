@@ -6,11 +6,7 @@
     <description>Recent content in Posts on Hi, I&#39;m Merelda ❤</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://merelda.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0200</lastBuildDate><atom:link href="https://merelda.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why data quality is key to successful ML Ops</title>
       <link>https://merelda.com/posts/test-data-pipeline/</link>

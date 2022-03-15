@@ -6,17 +6,40 @@
     <description>Recent content in Tags on Hi, I&#39;m Merelda ❤</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://merelda.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 12 Feb 2022 08:00:00 +0200</lastBuildDate><atom:link href="https://merelda.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dataops</title>
+      <link>https://merelda.com/tags/dataops/</link>
+      <pubDate>Sat, 12 Feb 2022 08:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/dataops/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>datascience</title>
       <link>https://merelda.com/tags/datascience/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 12 Feb 2022 08:00:00 +0200</pubDate>
       
       <guid>https://merelda.com/tags/datascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medium</title>
+      <link>https://merelda.com/tags/medium/</link>
+      <pubDate>Sat, 12 Feb 2022 08:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/medium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mlops</title>
+      <link>https://merelda.com/tags/mlops/</link>
+      <pubDate>Sat, 12 Feb 2022 08:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/tags/mlops/</guid>
       <description></description>
     </item>
     
@@ -35,24 +58,6 @@
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0200</pubDate>
       
       <guid>https://merelda.com/tags/reading-summary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>medium</title>
-      <link>https://merelda.com/tags/medium/</link>
-      <pubDate>Fri, 22 May 2020 17:21:36 +0200</pubDate>
-      
-      <guid>https://merelda.com/tags/medium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mlops</title>
-      <link>https://merelda.com/tags/mlops/</link>
-      <pubDate>Fri, 22 May 2020 17:21:36 +0200</pubDate>
-      
-      <guid>https://merelda.com/tags/mlops/</guid>
       <description></description>
     </item>
     

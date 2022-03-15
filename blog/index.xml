@@ -6,10 +6,24 @@
     <description>Recent content in Blogs on Hi, I&#39;m Merelda ❤</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2020 17:21:36 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 12 Feb 2022 08:00:00 +0200</lastBuildDate><atom:link href="https://merelda.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Steps to Frictionless AI</title>
+      <link>https://merelda.com/blog/five-steps-to-frictionless-ai/</link>
+      <pubDate>Sat, 12 Feb 2022 08:00:00 +0200</pubDate>
+      
+      <guid>https://merelda.com/blog/five-steps-to-frictionless-ai/</guid>
+      <description>How can we make AI frictionless?</description>
+    </item>
     
-	<atom:link href="https://merelda.com/blog/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>What the Ops are you talking about?</title>
+      <link>https://merelda.com/blog/what-the-ops/</link>
+      <pubDate>Tue, 12 Jan 2021 17:21:36 +0200</pubDate>
+      
+      <guid>https://merelda.com/blog/what-the-ops/</guid>
+      <description>How to choose between DataOps vs MLOps vs AIOps - what are the right Ops for your big data team?</description>
+    </item>
     
     <item>
       <title>Launching Into Uncertainty - 6 Smart Steps to Future-Proof Your ML Models</title>
