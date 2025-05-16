@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dataops on Hi, I&#39;m Merelda ❤</title>
+    <title>Dataops on Hi, I&#39;m Merelda ❤</title>
     <link>https://merelda.com/tags/dataops/</link>
-    <description>Recent content in dataops on Hi, I&#39;m Merelda ❤</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Dataops on Hi, I&#39;m Merelda ❤</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Feb 2022 08:00:00 +0200</lastBuildDate><atom:link href="https://merelda.com/tags/dataops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Feb 2022 08:00:00 +0200</lastBuildDate>
+    <atom:link href="https://merelda.com/tags/dataops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5 Steps to Frictionless AI</title>
       <link>https://merelda.com/blog/five-steps-to-frictionless-ai/</link>
       <pubDate>Sat, 12 Feb 2022 08:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/five-steps-to-frictionless-ai/</guid>
-      <description>How can we make AI frictionless?</description>
+      <description>&lt;p&gt;It has been a decade since &lt;ins&gt;&lt;a href=&#34;https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century&#34;&gt;Harvard Business Review called Data Scientist the sexiest career in the 21st Century&lt;/a&gt;&lt;/ins&gt;. The companies who grabbed onto these talents have not only transformed but completely disrupted the status quo in the data &amp;amp; analytics industry. Much of this hype was initially driven by big tech giants (FAANG, or MAANG circa Nov 2021), but there has been an explosion of high-performing AI teams popping out of every corner of the world.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

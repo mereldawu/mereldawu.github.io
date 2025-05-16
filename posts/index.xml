@@ -4,152 +4,121 @@
     <title>Posts on Hi, I&#39;m Merelda ❤</title>
     <link>https://merelda.com/posts/</link>
     <description>Recent content in Posts on Hi, I&#39;m Merelda ❤</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0200</lastBuildDate><atom:link href="https://merelda.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0200</lastBuildDate>
+    <atom:link href="https://merelda.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why data quality is key to successful ML Ops</title>
       <link>https://merelda.com/posts/test-data-pipeline/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/test-data-pipeline/</guid>
-      <description>Are you testing your data in your data pipeline 🧪?</description>
+      <description>&lt;p&gt;Are you testing your data in your data pipeline 🧪?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Why Best-of-Breed is a Better Choice than All-in-One Platforms for Data Science</title>
       <link>https://merelda.com/posts/best-of-breed/</link>
       <pubDate>Tue, 29 Sep 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/best-of-breed/</guid>
-      <description>Interesting view from O&amp;rsquo;Reilly on why Best-of-Breed trumps All-in-One data science platforms ‼️</description>
+      <description>&lt;p&gt;Interesting view from O&amp;rsquo;Reilly on why Best-of-Breed trumps All-in-One data science platforms ‼️&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Roadblocks to Production Vary for Different Roles</title>
       <link>https://merelda.com/posts/roadblocks-to-production/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/roadblocks-to-production/</guid>
-      <description>Roadblocks to model production vary for different roles 🚧</description>
+      <description>&lt;p&gt;Roadblocks to model production vary for different roles   🚧&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Recession&#39;s Impact on Analytics and Data Science]</title>
       <link>https://merelda.com/posts/recession-on-data-science/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/recession-on-data-science/</guid>
-      <description>We have all felt the impact of the recession in one way or another.</description>
+      <description>&lt;p&gt;We have all felt the impact of the recession in one way or another. What would be the impact of the shrinking economy on analytics and data science?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How to Bridge Missed Opportunity</title>
       <link>https://merelda.com/posts/missed-opportunity/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/missed-opportunity/</guid>
-      <description>You hired 5x ML Professionals, but you are not getting 5x the return.</description>
+      <description>&lt;p&gt;You hired 5x ML Professionals, but you are not getting 5x the return.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>How to Bridge Missed Opportunity</title>
+      <title>MLOps Stack</title>
       <link>https://merelda.com/posts/valohai-mlops-stack/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/valohai-mlops-stack/</guid>
-      <description>Found a beautiful and clean illustration from Valohai on MLOps Stack.</description>
+      <description>&lt;p&gt;Found a beautiful and clean illustration from Valohai on MLOps Stack.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Which Age of MLOps Are You In?</title>
       <link>https://merelda.com/posts/age-of-ml-ops/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0200</pubDate>
-      
+      <pubDate>Tue, 07 Jul 2020 15:55:36 +0200</pubDate>
       <guid>https://merelda.com/posts/age-of-ml-ops/</guid>
-      <description>It&amp;rsquo;s 2020 - which &amp;ldquo;Age&amp;rdquo; of MLOps are you in❓</description>
+      <description>&lt;p&gt;It&amp;rsquo;s 2020 - which &amp;ldquo;Age&amp;rdquo; of MLOps are you in❓&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>With AI, You Either Go Big or Go Home</title>
       <link>https://merelda.com/posts/go-big-or-go-home/</link>
       <pubDate>Wed, 29 Apr 2020 15:55:36 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/go-big-or-go-home/</guid>
-      <description>Most companies choose to start with building small scale PoCs or POVs.</description>
+      <description>&lt;p&gt;Most companies choose to start with building small scale PoCs or POVs. Unfortunately, with this approach, many struggled to move from experimentation to scale. According to Michael Gale at the recent Nvidia virtual GTC conference: starting small means staying small.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O&#39;Reilly: What you need to know about Product Management for AI</title>
       <link>https://merelda.com/posts/ai-product-managers/</link>
       <pubDate>Tue, 14 Apr 2020 18:08:20 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/ai-product-managers/</guid>
-      <description>Product managers have a tremendously tough job.</description>
+      <description>&lt;p&gt;Product managers have a tremendously tough job. An AI product managers does everything a traditional PM does, and much more .&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Considerations for Deploying an ML Model</title>
       <link>https://merelda.com/posts/deploying-ml-model/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/deploying-ml-model/</guid>
-      <description>✈ Deploying a machine learning model is like flying an airplane 🛩 Having no logging is like flying without a Blackbox.</description>
+      <description>&lt;/br&gt;&#xA;✈ Deploying a machine learning model is like flying an airplane 🛩&#xA;&lt;p&gt;Having no logging is like flying without a Blackbox. Any terrorist can hijack the plane without any consequences.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>WORKERA: AI Career Pathways</title>
       <link>https://merelda.com/posts/workera-ai-organisation/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/workera-ai-organisation/</guid>
-      <description>There is an emergence of two types of AI focuses within an organisation according to WORKERA:</description>
+      <description>&lt;p&gt;There is an emergence of two types of AI focuses within an organisation according to WORKERA:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O&#39;Reilly: 5 key areas for tech leaders to watch in 2020</title>
       <link>https://merelda.com/posts/oreilly-platform-analysis-2020/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/oreilly-platform-analysis-2020/</guid>
-      <description>According to O&amp;rsquo;Reillly online learning platform report, summarising the AI/ML:</description>
+      <description>&lt;/br&gt;&#xA;&lt;p&gt;According to O&amp;rsquo;Reillly online learning platform report, summarising the AI/ML:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Build Things Properly</title>
       <link>https://merelda.com/posts/build-things-properly/</link>
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/build-things-properly/</guid>
-      <description>A couple of days ago, we had a meeting to help a client operationalise their machine learning model.</description>
+      <description>&lt;p&gt;A couple of days ago, we had a meeting to help a client operationalise their machine learning model.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Pandas is finally version 1.0</title>
       <link>https://merelda.com/posts/pandas-one-point-o/</link>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/pandas-one-point-o/</guid>
-      <description>Can you believe Pandas 1.0.0 is finally here?</description>
+      <description>&lt;p&gt;Can you believe Pandas 1.0.0 is finally here?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Algorithmia: 2020 state of enterprise machine learning</title>
       <link>https://merelda.com/posts/algorithmia-state-of-enterprise-ml/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/algorithmia-state-of-enterprise-ml/</guid>
-      <description>Hello 2020! We started the year by reviewing this white paper published by Algorithmia on the 2020 State of Enterprise Machine Learning.</description>
+      <description>&lt;/br&gt;&#xA;&lt;p&gt;Hello 2020! We started the year by reviewing this white paper published by Algorithmia on the 2020 State of Enterprise Machine Learning.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>McKinsey: Global AI Survey</title>
       <link>https://merelda.com/posts/mckinsey-ai-adoption/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/mckinsey-ai-adoption/</guid>
-      <description>This study from McKinsey suggested that there have been measurable benefits from deployed AI.</description>
+      <description>&lt;/br&gt;&#xA;&lt;p&gt;This study from McKinsey suggested that there have been measurable benefits from &lt;strong&gt;deployed AI&lt;/strong&gt;. It is encouraging to see that AI adoption across all industries and regions are growing, especially that the majority of the executives reported that it has increased their revenue and/or reduced cost.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

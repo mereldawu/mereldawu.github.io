@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mlops on Hi, I&#39;m Merelda ❤</title>
+    <title>Mlops on Hi, I&#39;m Merelda ❤</title>
     <link>https://merelda.com/tags/mlops/</link>
-    <description>Recent content in mlops on Hi, I&#39;m Merelda ❤</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Mlops on Hi, I&#39;m Merelda ❤</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Feb 2022 08:00:00 +0200</lastBuildDate><atom:link href="https://merelda.com/tags/mlops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Feb 2022 08:00:00 +0200</lastBuildDate>
+    <atom:link href="https://merelda.com/tags/mlops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5 Steps to Frictionless AI</title>
       <link>https://merelda.com/blog/five-steps-to-frictionless-ai/</link>
       <pubDate>Sat, 12 Feb 2022 08:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/five-steps-to-frictionless-ai/</guid>
-      <description>How can we make AI frictionless?</description>
+      <description>&lt;p&gt;It has been a decade since &lt;ins&gt;&lt;a href=&#34;https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century&#34;&gt;Harvard Business Review called Data Scientist the sexiest career in the 21st Century&lt;/a&gt;&lt;/ins&gt;. The companies who grabbed onto these talents have not only transformed but completely disrupted the status quo in the data &amp;amp; analytics industry. Much of this hype was initially driven by big tech giants (FAANG, or MAANG circa Nov 2021), but there has been an explosion of high-performing AI teams popping out of every corner of the world.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What the Ops are you talking about?</title>
       <link>https://merelda.com/blog/what-the-ops/</link>
       <pubDate>Tue, 12 Jan 2021 17:21:36 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/what-the-ops/</guid>
-      <description>How to choose between DataOps vs MLOps vs AIOps - what are the right Ops for your big data team?</description>
+      <description>&lt;p&gt;The software industry has been obsessed with the various ops-terms since the popularisation of &lt;ins&gt;&lt;a href=&#34;https://www.atlassian.com/devops/what-is-devops/history-of-devops&#34;&gt;DevOps in the late 2000s&lt;/a&gt;&lt;/ins&gt;. Ten years ago, software development to deployment has a throw-over-the-world approach. A software engineer develops the app, then throw it over to the operational engineers. The app breaks often during deployment and creates significant friction between the teams.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Launching Into Uncertainty - 6 Smart Steps to Future-Proof Your ML Models</title>
       <link>https://merelda.com/blog/launching-into-uncertainty/</link>
       <pubDate>Fri, 22 May 2020 17:21:36 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/launching-into-uncertainty/</guid>
-      <description>Your machine learning model is going to fail in the pandemic.</description>
+      <description>&lt;p&gt;There have been many articles focusing on how machine learning can and is helping during the pandemic. South Korean and Taiwanese governments successfully demonstrated how they used AI to &lt;ins&gt;&lt;a href=&#34;https://medium.com/r/?url=https%3A%2F%2Fhbr.org%2F2020%2F04%2Fhow-digital-contact-tracing-slowed-covid-19-in-east-asia&#34;&gt;slow the spread of COVID-19&lt;/a&gt;&lt;/ins&gt;. French tech company identifying hot spots where masks are not being worn, advising where governments can focus on education. Data and medical professionals collaborating to index medical journal papers on COVID-19.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

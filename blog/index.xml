@@ -4,71 +4,58 @@
     <title>Blogs on Hi, I&#39;m Merelda ❤</title>
     <link>https://merelda.com/blog/</link>
     <description>Recent content in Blogs on Hi, I&#39;m Merelda ❤</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Feb 2022 08:00:00 +0200</lastBuildDate><atom:link href="https://merelda.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Feb 2022 08:00:00 +0200</lastBuildDate>
+    <atom:link href="https://merelda.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5 Steps to Frictionless AI</title>
       <link>https://merelda.com/blog/five-steps-to-frictionless-ai/</link>
       <pubDate>Sat, 12 Feb 2022 08:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/five-steps-to-frictionless-ai/</guid>
-      <description>How can we make AI frictionless?</description>
+      <description>&lt;p&gt;It has been a decade since &lt;ins&gt;&lt;a href=&#34;https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century&#34;&gt;Harvard Business Review called Data Scientist the sexiest career in the 21st Century&lt;/a&gt;&lt;/ins&gt;. The companies who grabbed onto these talents have not only transformed but completely disrupted the status quo in the data &amp;amp; analytics industry. Much of this hype was initially driven by big tech giants (FAANG, or MAANG circa Nov 2021), but there has been an explosion of high-performing AI teams popping out of every corner of the world.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What the Ops are you talking about?</title>
       <link>https://merelda.com/blog/what-the-ops/</link>
       <pubDate>Tue, 12 Jan 2021 17:21:36 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/what-the-ops/</guid>
-      <description>How to choose between DataOps vs MLOps vs AIOps - what are the right Ops for your big data team?</description>
+      <description>&lt;p&gt;The software industry has been obsessed with the various ops-terms since the popularisation of &lt;ins&gt;&lt;a href=&#34;https://www.atlassian.com/devops/what-is-devops/history-of-devops&#34;&gt;DevOps in the late 2000s&lt;/a&gt;&lt;/ins&gt;. Ten years ago, software development to deployment has a throw-over-the-world approach. A software engineer develops the app, then throw it over to the operational engineers. The app breaks often during deployment and creates significant friction between the teams.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Launching Into Uncertainty - 6 Smart Steps to Future-Proof Your ML Models</title>
       <link>https://merelda.com/blog/launching-into-uncertainty/</link>
       <pubDate>Fri, 22 May 2020 17:21:36 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/launching-into-uncertainty/</guid>
-      <description>Your machine learning model is going to fail in the pandemic.</description>
+      <description>&lt;p&gt;There have been many articles focusing on how machine learning can and is helping during the pandemic. South Korean and Taiwanese governments successfully demonstrated how they used AI to &lt;ins&gt;&lt;a href=&#34;https://medium.com/r/?url=https%3A%2F%2Fhbr.org%2F2020%2F04%2Fhow-digital-contact-tracing-slowed-covid-19-in-east-asia&#34;&gt;slow the spread of COVID-19&lt;/a&gt;&lt;/ins&gt;. French tech company identifying hot spots where masks are not being worn, advising where governments can focus on education. Data and medical professionals collaborating to index medical journal papers on COVID-19.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>3 Tips You Need To Save Your Data Science Project Scope</title>
       <link>https://merelda.com/blog/project-scope-management/</link>
       <pubDate>Wed, 29 Apr 2020 10:55:06 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/project-scope-management/</guid>
-      <description>Never spend another second building a monster-app that is miles away from the original scope.</description>
+      <description>&lt;p&gt;As a data scientist, you expect to get a job that lets you do cool stuff - Big data, Big machine (or cloud, like the grown-ups), and Deep neural networks. Reality quickly creeps in as you realize the mismatch between your model, your project manager&amp;rsquo;s timeline, and your stakeholder&amp;rsquo;s expectation.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rise above the ordinary — a data science reading list</title>
       <link>https://merelda.com/blog/data-science-reading-list/</link>
       <pubDate>Tue, 14 Apr 2020 17:32:02 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/data-science-reading-list/</guid>
-      <description>An hour reading sprint a day to keep your knowledge broad and up-to-date</description>
+      <description>&lt;p&gt;As one of the fastest-growing industries, being a data scientist without a research group can be incapacitating. At the end of last year, I realized I am often missing out on new development in the industry, unknowingly reinventing the wheel, and falling short in conversations with experts. Being a data science consultant, my stress-level exploded as I constantly felt under-prepared going into client meetings.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>3 Tips on Defining a Data Science Project Scope with Business</title>
       <link>https://merelda.com/blog/speak-to-business/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/speak-to-business/</guid>
-      <description>Never be in trouble for delivering the wrong thing at the wrong time to the wrong person.</description>
+      <description>&lt;p&gt;As a data scientist, you expect to get a job that lets you do cool stuff — Big data, Big machine (or cloud, like the grown-ups) and Deep neural networks. Reality quickly creeps in as you realise the mismatch between your model, your project manager’s timeline and your stakeholder’s expectation. What they needed (often) is not a 128-layer ResNet, but a simple select &amp;amp; group by query that delivers &lt;strong&gt;actionable insights&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>5 Reasons Why You Should Join Deep Learning Indaba 2019</title>
       <link>https://merelda.com/blog/deep-learning-indaba-2019/</link>
-      <pubDate>Tue, 14 Aug 2018 00:00:00 +0200</pubDate>
-      
+      <pubDate>Tue, 14 Aug 2018 08:00:00 +0200</pubDate>
       <guid>https://merelda.com/blog/deep-learning-indaba-2019/</guid>
-      <description>In April this year, instead of organising my 20-something birthday party, I spent hours writing motivating emails to my company to convince them to send me to Deep Learning Indaba.</description>
+      <description>&lt;p&gt;In April this year, instead of organising my 20-something birthday party, I spent hours writing motivating emails to my company to convince them to send me to &lt;a href=&#34;http://www.deeplearningindaba.com/&#34;&gt;Deep Learning Indaba&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

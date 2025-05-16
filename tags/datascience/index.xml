@@ -1,218 +1,173 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>datascience on Hi, I&#39;m Merelda ❤</title>
+    <title>Datascience on Hi, I&#39;m Merelda ❤</title>
     <link>https://merelda.com/tags/datascience/</link>
-    <description>Recent content in datascience on Hi, I&#39;m Merelda ❤</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Datascience on Hi, I&#39;m Merelda ❤</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Feb 2022 08:00:00 +0200</lastBuildDate><atom:link href="https://merelda.com/tags/datascience/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Feb 2022 08:00:00 +0200</lastBuildDate>
+    <atom:link href="https://merelda.com/tags/datascience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5 Steps to Frictionless AI</title>
       <link>https://merelda.com/blog/five-steps-to-frictionless-ai/</link>
       <pubDate>Sat, 12 Feb 2022 08:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/five-steps-to-frictionless-ai/</guid>
-      <description>How can we make AI frictionless?</description>
+      <description>&lt;p&gt;It has been a decade since &lt;ins&gt;&lt;a href=&#34;https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century&#34;&gt;Harvard Business Review called Data Scientist the sexiest career in the 21st Century&lt;/a&gt;&lt;/ins&gt;. The companies who grabbed onto these talents have not only transformed but completely disrupted the status quo in the data &amp;amp; analytics industry. Much of this hype was initially driven by big tech giants (FAANG, or MAANG circa Nov 2021), but there has been an explosion of high-performing AI teams popping out of every corner of the world.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What the Ops are you talking about?</title>
       <link>https://merelda.com/blog/what-the-ops/</link>
       <pubDate>Tue, 12 Jan 2021 17:21:36 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/what-the-ops/</guid>
-      <description>How to choose between DataOps vs MLOps vs AIOps - what are the right Ops for your big data team?</description>
+      <description>&lt;p&gt;The software industry has been obsessed with the various ops-terms since the popularisation of &lt;ins&gt;&lt;a href=&#34;https://www.atlassian.com/devops/what-is-devops/history-of-devops&#34;&gt;DevOps in the late 2000s&lt;/a&gt;&lt;/ins&gt;. Ten years ago, software development to deployment has a throw-over-the-world approach. A software engineer develops the app, then throw it over to the operational engineers. The app breaks often during deployment and creates significant friction between the teams.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Why data quality is key to successful ML Ops</title>
       <link>https://merelda.com/posts/test-data-pipeline/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/test-data-pipeline/</guid>
-      <description>Are you testing your data in your data pipeline 🧪?</description>
+      <description>&lt;p&gt;Are you testing your data in your data pipeline 🧪?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Why Best-of-Breed is a Better Choice than All-in-One Platforms for Data Science</title>
       <link>https://merelda.com/posts/best-of-breed/</link>
       <pubDate>Tue, 29 Sep 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/best-of-breed/</guid>
-      <description>Interesting view from O&amp;rsquo;Reilly on why Best-of-Breed trumps All-in-One data science platforms ‼️</description>
+      <description>&lt;p&gt;Interesting view from O&amp;rsquo;Reilly on why Best-of-Breed trumps All-in-One data science platforms ‼️&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Roadblocks to Production Vary for Different Roles</title>
       <link>https://merelda.com/posts/roadblocks-to-production/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/roadblocks-to-production/</guid>
-      <description>Roadblocks to model production vary for different roles 🚧</description>
+      <description>&lt;p&gt;Roadblocks to model production vary for different roles   🚧&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Recession&#39;s Impact on Analytics and Data Science]</title>
       <link>https://merelda.com/posts/recession-on-data-science/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/recession-on-data-science/</guid>
-      <description>We have all felt the impact of the recession in one way or another.</description>
+      <description>&lt;p&gt;We have all felt the impact of the recession in one way or another. What would be the impact of the shrinking economy on analytics and data science?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How to Bridge Missed Opportunity</title>
       <link>https://merelda.com/posts/missed-opportunity/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/missed-opportunity/</guid>
-      <description>You hired 5x ML Professionals, but you are not getting 5x the return.</description>
+      <description>&lt;p&gt;You hired 5x ML Professionals, but you are not getting 5x the return.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>How to Bridge Missed Opportunity</title>
+      <title>MLOps Stack</title>
       <link>https://merelda.com/posts/valohai-mlops-stack/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/valohai-mlops-stack/</guid>
-      <description>Found a beautiful and clean illustration from Valohai on MLOps Stack.</description>
+      <description>&lt;p&gt;Found a beautiful and clean illustration from Valohai on MLOps Stack.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Which Age of MLOps Are You In?</title>
       <link>https://merelda.com/posts/age-of-ml-ops/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0200</pubDate>
-      
+      <pubDate>Tue, 07 Jul 2020 15:55:36 +0200</pubDate>
       <guid>https://merelda.com/posts/age-of-ml-ops/</guid>
-      <description>It&amp;rsquo;s 2020 - which &amp;ldquo;Age&amp;rdquo; of MLOps are you in❓</description>
+      <description>&lt;p&gt;It&amp;rsquo;s 2020 - which &amp;ldquo;Age&amp;rdquo; of MLOps are you in❓&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Launching Into Uncertainty - 6 Smart Steps to Future-Proof Your ML Models</title>
       <link>https://merelda.com/blog/launching-into-uncertainty/</link>
       <pubDate>Fri, 22 May 2020 17:21:36 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/launching-into-uncertainty/</guid>
-      <description>Your machine learning model is going to fail in the pandemic.</description>
+      <description>&lt;p&gt;There have been many articles focusing on how machine learning can and is helping during the pandemic. South Korean and Taiwanese governments successfully demonstrated how they used AI to &lt;ins&gt;&lt;a href=&#34;https://medium.com/r/?url=https%3A%2F%2Fhbr.org%2F2020%2F04%2Fhow-digital-contact-tracing-slowed-covid-19-in-east-asia&#34;&gt;slow the spread of COVID-19&lt;/a&gt;&lt;/ins&gt;. French tech company identifying hot spots where masks are not being worn, advising where governments can focus on education. Data and medical professionals collaborating to index medical journal papers on COVID-19.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>With AI, You Either Go Big or Go Home</title>
       <link>https://merelda.com/posts/go-big-or-go-home/</link>
       <pubDate>Wed, 29 Apr 2020 15:55:36 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/go-big-or-go-home/</guid>
-      <description>Most companies choose to start with building small scale PoCs or POVs.</description>
+      <description>&lt;p&gt;Most companies choose to start with building small scale PoCs or POVs. Unfortunately, with this approach, many struggled to move from experimentation to scale. According to Michael Gale at the recent Nvidia virtual GTC conference: starting small means staying small.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>3 Tips You Need To Save Your Data Science Project Scope</title>
       <link>https://merelda.com/blog/project-scope-management/</link>
       <pubDate>Wed, 29 Apr 2020 10:55:06 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/project-scope-management/</guid>
-      <description>Never spend another second building a monster-app that is miles away from the original scope.</description>
+      <description>&lt;p&gt;As a data scientist, you expect to get a job that lets you do cool stuff - Big data, Big machine (or cloud, like the grown-ups), and Deep neural networks. Reality quickly creeps in as you realize the mismatch between your model, your project manager&amp;rsquo;s timeline, and your stakeholder&amp;rsquo;s expectation.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O&#39;Reilly: What you need to know about Product Management for AI</title>
       <link>https://merelda.com/posts/ai-product-managers/</link>
       <pubDate>Tue, 14 Apr 2020 18:08:20 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/ai-product-managers/</guid>
-      <description>Product managers have a tremendously tough job.</description>
+      <description>&lt;p&gt;Product managers have a tremendously tough job. An AI product managers does everything a traditional PM does, and much more .&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rise above the ordinary — a data science reading list</title>
       <link>https://merelda.com/blog/data-science-reading-list/</link>
       <pubDate>Tue, 14 Apr 2020 17:32:02 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/data-science-reading-list/</guid>
-      <description>An hour reading sprint a day to keep your knowledge broad and up-to-date</description>
+      <description>&lt;p&gt;As one of the fastest-growing industries, being a data scientist without a research group can be incapacitating. At the end of last year, I realized I am often missing out on new development in the industry, unknowingly reinventing the wheel, and falling short in conversations with experts. Being a data science consultant, my stress-level exploded as I constantly felt under-prepared going into client meetings.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Considerations for Deploying an ML Model</title>
       <link>https://merelda.com/posts/deploying-ml-model/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/deploying-ml-model/</guid>
-      <description>✈ Deploying a machine learning model is like flying an airplane 🛩 Having no logging is like flying without a Blackbox.</description>
+      <description>&lt;/br&gt;&#xA;✈ Deploying a machine learning model is like flying an airplane 🛩&#xA;&lt;p&gt;Having no logging is like flying without a Blackbox. Any terrorist can hijack the plane without any consequences.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>WORKERA: AI Career Pathways</title>
       <link>https://merelda.com/posts/workera-ai-organisation/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/workera-ai-organisation/</guid>
-      <description>There is an emergence of two types of AI focuses within an organisation according to WORKERA:</description>
+      <description>&lt;p&gt;There is an emergence of two types of AI focuses within an organisation according to WORKERA:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>O&#39;Reilly: 5 key areas for tech leaders to watch in 2020</title>
       <link>https://merelda.com/posts/oreilly-platform-analysis-2020/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/oreilly-platform-analysis-2020/</guid>
-      <description>According to O&amp;rsquo;Reillly online learning platform report, summarising the AI/ML:</description>
+      <description>&lt;/br&gt;&#xA;&lt;p&gt;According to O&amp;rsquo;Reillly online learning platform report, summarising the AI/ML:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Build Things Properly</title>
       <link>https://merelda.com/posts/build-things-properly/</link>
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/build-things-properly/</guid>
-      <description>A couple of days ago, we had a meeting to help a client operationalise their machine learning model.</description>
+      <description>&lt;p&gt;A couple of days ago, we had a meeting to help a client operationalise their machine learning model.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Pandas is finally version 1.0</title>
       <link>https://merelda.com/posts/pandas-one-point-o/</link>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/pandas-one-point-o/</guid>
-      <description>Can you believe Pandas 1.0.0 is finally here?</description>
+      <description>&lt;p&gt;Can you believe Pandas 1.0.0 is finally here?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Algorithmia: 2020 state of enterprise machine learning</title>
       <link>https://merelda.com/posts/algorithmia-state-of-enterprise-ml/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/algorithmia-state-of-enterprise-ml/</guid>
-      <description>Hello 2020! We started the year by reviewing this white paper published by Algorithmia on the 2020 State of Enterprise Machine Learning.</description>
+      <description>&lt;/br&gt;&#xA;&lt;p&gt;Hello 2020! We started the year by reviewing this white paper published by Algorithmia on the 2020 State of Enterprise Machine Learning.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>McKinsey: Global AI Survey</title>
       <link>https://merelda.com/posts/mckinsey-ai-adoption/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/posts/mckinsey-ai-adoption/</guid>
-      <description>This study from McKinsey suggested that there have been measurable benefits from deployed AI.</description>
+      <description>&lt;/br&gt;&#xA;&lt;p&gt;This study from McKinsey suggested that there have been measurable benefits from &lt;strong&gt;deployed AI&lt;/strong&gt;. It is encouraging to see that AI adoption across all industries and regions are growing, especially that the majority of the executives reported that it has increased their revenue and/or reduced cost.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>3 Tips on Defining a Data Science Project Scope with Business</title>
       <link>https://merelda.com/blog/speak-to-business/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0200</pubDate>
-      
       <guid>https://merelda.com/blog/speak-to-business/</guid>
-      <description>Never be in trouble for delivering the wrong thing at the wrong time to the wrong person.</description>
+      <description>&lt;p&gt;As a data scientist, you expect to get a job that lets you do cool stuff — Big data, Big machine (or cloud, like the grown-ups) and Deep neural networks. Reality quickly creeps in as you realise the mismatch between your model, your project manager’s timeline and your stakeholder’s expectation. What they needed (often) is not a 128-layer ResNet, but a simple select &amp;amp; group by query that delivers &lt;strong&gt;actionable insights&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>5 Reasons Why You Should Join Deep Learning Indaba 2019</title>
       <link>https://merelda.com/blog/deep-learning-indaba-2019/</link>
-      <pubDate>Tue, 14 Aug 2018 00:00:00 +0200</pubDate>
-      
+      <pubDate>Tue, 14 Aug 2018 08:00:00 +0200</pubDate>
       <guid>https://merelda.com/blog/deep-learning-indaba-2019/</guid>
-      <description>In April this year, instead of organising my 20-something birthday party, I spent hours writing motivating emails to my company to convince them to send me to Deep Learning Indaba.</description>
+      <description>&lt;p&gt;In April this year, instead of organising my 20-something birthday party, I spent hours writing motivating emails to my company to convince them to send me to &lt;a href=&#34;http://www.deeplearningindaba.com/&#34;&gt;Deep Learning Indaba&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

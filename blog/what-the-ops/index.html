@@ -3,19 +3,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	ga('create', 'UA-163819344-1', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-	<meta name="generator" content="Hugo 0.111.3">
+	<meta name="generator" content="Hugo 0.147.3">
 	
 	<link rel="icon" href="/images/merelda_logo.png">
 	
@@ -23,17 +11,26 @@ if (!doNotTrack) {
 	
 	
 
-	<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://merelda.com/blog/what-the-ops/cover.png"/>
-<meta name="twitter:title" content="What the Ops are you talking about?"/>
-<meta name="twitter:description" content="How to choose between DataOps vs MLOps vs AIOps - what are the right Ops for your big data team?"/>
+	
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://merelda.com/blog/what-the-ops/cover.png">
+  <meta name="twitter:title" content="What the Ops are you talking about?">
+  <meta name="twitter:description" content="The software industry has been obsessed with the various ops-terms since the popularisation of DevOps in the late 2000s. Ten years ago, software development to deployment has a throw-over-the-world approach. A software engineer develops the app, then throw it over to the operational engineers. The app breaks often during deployment and creates significant friction between the teams.">
+      <meta name="twitter:site" content="@mereldawoohoo">
 
-	<meta property="og:title" content="What the Ops are you talking about?" />
-<meta property="og:description" content="How to choose between DataOps vs MLOps vs AIOps - what are the right Ops for your big data team?" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://merelda.com/blog/what-the-ops/" /><meta property="og:image" content="https://merelda.com/blog/what-the-ops/cover.png"/><meta property="article:section" content="blog" />
-<meta property="article:published_time" content="2021-01-12T17:21:36+02:00" />
-<meta property="article:modified_time" content="2021-01-12T17:21:36+02:00" />
+	<meta property="og:url" content="https://merelda.com/blog/what-the-ops/">
+  <meta property="og:site_name" content="Hi, I&#39;m Merelda ❤">
+  <meta property="og:title" content="What the Ops are you talking about?">
+  <meta property="og:description" content="The software industry has been obsessed with the various ops-terms since the popularisation of DevOps in the late 2000s. Ten years ago, software development to deployment has a throw-over-the-world approach. A software engineer develops the app, then throw it over to the operational engineers. The app breaks often during deployment and creates significant friction between the teams.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2021-01-12T17:21:36+02:00">
+    <meta property="article:modified_time" content="2021-01-12T17:21:36+02:00">
+    <meta property="article:tag" content="Medium">
+    <meta property="article:tag" content="Datascience">
+    <meta property="article:tag" content="Mlops">
+    <meta property="og:image" content="https://merelda.com/blog/what-the-ops/cover.png">
 
 
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -42,6 +39,7 @@ if (!doNotTrack) {
 	<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
 	<link href="/css/medium.css" rel="stylesheet">
 	<link href="/css/additional.css" rel="stylesheet">
+	<link href="/css/custom.css" rel="stylesheet">
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
@@ -175,9 +173,7 @@ if (!doNotTrack) {
 
                     
                     <div class="article-post">
-                        <blockquote>
-<p>How to choose between DataOps vs MLOps vs AIOps - what are the right Ops for your big data team?</p>
-</blockquote>
+                        <p>The software industry has been obsessed with the various ops-terms since the popularisation of <ins><a href="https://www.atlassian.com/devops/what-is-devops/history-of-devops">DevOps in the late 2000s</a></ins>. Ten years ago, software development to deployment has a throw-over-the-world approach. A software engineer develops the app, then throw it over to the operational engineers. The app breaks often during deployment and creates significant friction between the teams.</p>
 
 <figure >
     
@@ -191,13 +187,11 @@ if (!doNotTrack) {
     
 </figure>
 
-<p>The software industry has been obsessed with the various ops-terms since the popularisation of <ins><a href="https://www.atlassian.com/devops/what-is-devops/history-of-devops">DevOps in the late 2000s</a></ins>. Ten years ago, software development to deployment has a throw-over-the-world approach. A software engineer develops the app, then throw it over to the operational engineers. The app breaks often during deployment and creates significant friction between the teams.</p>
 <p>The DevOps practice came about to smooth out the deployment process. The idea is to treat <strong>automation</strong> as a first-class citizen to build &amp; deploy software applications.</p>
 <p>This approach revolutionised the industry. Many organisations started building a cross-functional team to look after the entire SDLC. The team would set up the infrastructure (infra engineer), develop the app (software engineer), build the CI/CD pipeline (DevOps engineer), deploy the app (every engineer), then monitor and observe the app continuously (site-reliability engineer).</p>
 <p>In a big team, different engineers have one primary function. But in smaller teams, one engineer often fills many roles. The ideal is to have many team members able to fill multiple functions so the bottlenecks and key-man dependencies are removed. So in reality…</p>
 <blockquote>
-<p>DevOps, instead of it being a job function, is more practice or culture. </br></br> It should be adopted at the beginning of building any software</p>
-</blockquote>
+<p>DevOps, instead of it being a job function, is more practice or culture. </br></br> It should be adopted at the beginning of building any software</p></blockquote>
 <p>Together with the rise of DevOps, a variety of ops are born.</p>
 
 <figure >
@@ -283,14 +277,12 @@ To summarise, this is what each Ops means:</p>
 <h3 id="bonus-aiops-enhances-devops-tools-using-the-power-of-ai">Bonus: AIOps enhances DevOps tools using the power of AI</h3>
 <p>Sometimes people incorrectly refer to MLOps as AIOps, but they’re quite different. From Gartner:</p>
 <blockquote>
-<p>AIOps platforms utilize big data, modern machine learning and other advanced analytics technologies to directly and indirectly enhance IT operations (monitoring, automation and service desk) functions with proactive, personal and dynamic insight.</p>
-</blockquote>
+<p>AIOps platforms utilize big data, modern machine learning and other advanced analytics technologies to directly and indirectly enhance IT operations (monitoring, automation and service desk) functions with proactive, personal and dynamic insight.</p></blockquote>
 <p>So AIOps typically are DevOps tools that uses AI-powered technology to enhance the service offerings. Alerting &amp; anomaly detection offered by <a href="https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-operations-integration/aiops.html">AWS CloudWatch</a> is a good example of AIOps.</p>
 <h2 id="-principals-not-job-roles">💎 Principals not Job Roles</h2>
 <p>It is a misconception that in order to achieve the efficiency that these ops promise, they need to start with choosing the right technology. In fact, technology is not the most important thing.</p>
 <blockquote>
-<p>&ldquo;DataOps, MLOps and DevOps practice must be language-, framework, platform and infrastructure agnostic.&rdquo;</p>
-</blockquote>
+<p>&ldquo;DataOps, MLOps and DevOps practice must be language-, framework, platform and infrastructure agnostic.&rdquo;</p></blockquote>
 <p>Everyone has a different workflow, and that workflow should be informed by the principals — not the technology you want to try, or the technology that is the most popular. The trap of going technology first will be if you want to use a hammer, everything looks like a nail to you.</p>
 <p>All the ops have the same 7 overarching principals, but each with its own slight nuances:</p>
 <h3 id="1-compliance">1. Compliance</h3>
@@ -442,17 +434,5 @@ To summarise, this is what each Ops means:</p>
 
 <script src="/js/mediumish.js"></script>
 
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	ga('create', 'UA-163819344-1', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
     </body>
 </html>

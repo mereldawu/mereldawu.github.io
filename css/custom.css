@@ -1,0 +1,51 @@
+/* Columns component styles */
+.gdoc-columns {
+  margin: 1rem 0;
+  display: flex;
+  gap: 1rem;
+}
+
+.gdoc-columns--regular > :first-child {
+  flex: 1;
+  min-width: 40%;
+}
+
+.gdoc-columns--small > :first-child {
+  flex: 0.35;
+  min-width: 35%;
+}
+
+.gdoc-columns--large > :first-child {
+  flex: 1.65;
+  min-width: 165%;
+}
+
+.gdoc-columns__content {
+  flex: 1 1;
+  min-width: 66%;
+  padding: 0;
+}
+
+.gdoc-page__anchor {
+  display: none;
+}
+
+/* Flexbox utilities */
+.flex {
+  display: flex;
+}
+
+.flex-even {
+  flex: 1;
+}
+
+.gap-16 {
+  gap: 1rem;
+}
+
+/* Responsive layout */
+@media (max-width: 600px) {
+  .gdoc-columns {
+    flex-direction: column;
+  }
+} 
